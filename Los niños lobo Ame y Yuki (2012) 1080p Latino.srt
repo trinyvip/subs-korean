@@ -1,0 +1,5636 @@
+1
+00:00:40,910 --> 00:00:42,680
+<font color="#ffff00">Tal vez esto les parecerá un
+cuento de hadas.</font>
+
+2
+00:00:43,310 --> 00:00:44,980
+<font color="#ffff00">Incluso puede que se rían de ello.</font>
+
+3
+00:00:46,440 --> 00:00:49,510
+<font color="#ffff00">Dirán que algo tan extraño es imposible.</font>
+
+4
+00:01:28,740 --> 00:01:33,680
+<font color="#ffff00">Pero definitivamente esta es...
+la historia de mi madre.</font>
+
+5
+00:01:36,170 --> 00:01:38,040
+<font color="#ffff00">La persona de la que se enamoró...</font>
+
+6
+00:01:39,180 --> 00:01:40,740
+<font color="#ffff00">era un hombre lobo.</font>
+
+7
+00:02:06,000 --> 00:02:10,330
+<font color="#ffff00">Mi madre estudiaba en una
+universidad en las afueras de Tokio.</font>
+
+8
+00:02:11,640 --> 00:02:13,580
+<font color="#ffff00">Cubría los gastos de la escolaridad
+con una beca,</font>
+
+9
+00:02:13,960 --> 00:02:17,110
+<font color="#ffff00">y para los gastos diarios, tenía
+un trabajo a tiempo parcial.</font>
+
+10
+00:02:20,900 --> 00:02:23,820
+<font color="#ffff00">Aquellos que son alabados por su
+sabiduría en este mundo...</font>
+
+11
+00:02:23,850 --> 00:02:26,200
+<font color="#ffff00">ciertamente tenían un vasto conocimiento,</font>
+
+12
+00:02:26,230 --> 00:02:28,600
+<font color="#ffff00">pero no sólo en su campo,
+también en otros temas.</font>
+
+13
+00:02:29,020 --> 00:02:31,360
+<font color="#ffff00">Pero, además de la verdad,
+lo bueno y lo hermoso...</font>
+
+14
+00:02:31,390 --> 00:02:34,080
+<font color="#ffff00">No tenían conocimiento sobre el areté.</font>
+
+15
+00:02:34,110 --> 00:02:38,000
+<font color="#ffff00">En un día de verano, mi mamá vio
+a mi padre por primera vez.</font>
+
+16
+00:02:38,960 --> 00:02:40,860
+<font color="#ffff00">Llevaba puesta una camiseta
+de cuello ancho,</font>
+
+17
+00:02:40,890 --> 00:02:45,410
+<font color="#ffff00">y tomaba notas sin un libro de texto,
+solamente en un cuaderno.</font>
+
+18
+00:02:46,100 --> 00:02:48,900
+<font color="#ffff00">Ella pensó que era muy diferente
+a los otros estudiantes.</font>
+
+19
+00:03:11,110 --> 00:03:12,080
+<font color="#ffff00">¡Espera, por favor!</font>
+
+20
+00:03:17,130 --> 00:03:18,570
+<font color="#ffff00">Esta es la boleta de asistencia.</font>
+
+21
+00:03:19,150 --> 00:03:21,740
+<font color="#ffff00">Si no la firmas y la entregas,
+te pondrán una inasistencia.</font>
+
+22
+00:03:22,200 --> 00:03:22,830
+<font color="#ffff00">Por eso...</font>
+
+23
+00:03:22,870 --> 00:03:23,310
+<font color="#ffff00">Yo...</font>
+
+24
+00:03:24,030 --> 00:03:25,190
+<font color="#ffff00">No soy un estudiante.</font>
+
+25
+00:03:25,610 --> 00:03:26,010
+<font color="#ffff00">¿Eh?</font>
+
+26
+00:03:26,730 --> 00:03:28,430
+<font color="#ffff00">Si soy una molestia, no volveré a venir.</font>
+
+27
+00:04:00,010 --> 00:04:01,010
+<font color="#ffff00">¿Quién es?</font>
+
+28
+00:04:08,070 --> 00:04:09,050
+<font color="#ffff00">¡Espera, por favor!</font>
+
+29
+00:04:12,010 --> 00:04:14,900
+<font color="#ffff00">No sé si eres un estudiante o no,</font>
+
+30
+00:04:14,930 --> 00:04:19,010
+<font color="#ffff00">pero no tenías un libro de texto,
+y es difícil estudiar así.</font>
+
+31
+00:04:19,890 --> 00:04:21,150
+<font color="#ffff00">¿Quieres que compartamos el mío?</font>
+
+32
+00:04:32,930 --> 00:04:34,190
+<font color="#ffff00">Bienvenido.</font>
+
+33
+00:04:35,190 --> 00:04:37,290
+<font color="#ffff00">Estará listo para el viernes.</font>
+
+34
+00:04:37,330 --> 00:04:38,670
+<font color="#ffff00">Muchas gracias.</font>
+
+35
+00:04:39,230 --> 00:04:40,310
+<font color="#ffff00">Perdón por hacerla esperar.</font>
+
+36
+00:04:42,270 --> 00:04:43,650
+<font color="#ffff00">Bienvenido.</font>
+
+37
+00:05:27,150 --> 00:05:29,230
+<font color="#ffff00">Cuidado con esto.</font>
+
+38
+00:05:36,670 --> 00:05:37,750
+<font color="#ffff00">Por aquí.</font>
+
+39
+00:05:40,370 --> 00:05:41,850
+<font color="#ffff00">¿Dónde pongo esto?</font>
+
+40
+00:05:51,070 --> 00:05:52,580
+<font color="#ffff00">Vamos, vamos.</font>
+
+41
+00:05:52,620 --> 00:05:54,060
+<font color="#ffff00">Vengan aquí.</font>
+
+42
+00:05:54,090 --> 00:05:58,060
+<font color="#ffff00">Los tres que reclamaron este ensayo,
+fueron: el poeta Meleto,</font>
+
+43
+00:05:58,090 --> 00:06:01,210
+<font color="#ffff00">un hombre con una gran fuerza política,
+llamado Ánito.</font>
+
+44
+00:06:01,250 --> 00:06:04,130
+<font color="#ffff00">Y el sofista Licón.</font>
+
+45
+00:06:04,490 --> 00:06:09,690
+<font color="#ffff00">El representante era Meleto, pero
+Ánito estaba detrás de la acusación.</font>
+
+46
+00:06:32,110 --> 00:06:34,070
+<font color="#ffff00">¿Qué haces para divertirte?</font>
+
+47
+00:06:34,810 --> 00:06:36,330
+<font color="#ffff00">¿Qué tipo de comida te gusta?</font>
+
+48
+00:06:37,030 --> 00:06:39,410
+<font color="#ffff00">¿Qué clase de personas te gustan?</font>
+
+49
+00:06:42,250 --> 00:06:44,300
+<font color="#ffff00">¿Por qué te llamas "Hana"?</font>
+
+50
+00:06:44,950 --> 00:06:45,550
+<font color="#ffff00">¿Mi nombre?</font>
+
+51
+00:06:46,130 --> 00:06:46,630
+<font color="#ffff00">Sí.</font>
+
+52
+00:06:47,930 --> 00:06:52,070
+<font color="#ffff00">Cuando nací, las flores cosmos de nuestro
+patio trasero estaban floreciendo.</font>
+
+53
+00:06:52,110 --> 00:06:55,130
+<font color="#ffff00">Nadie las plantó, nacieron de
+forma natural.</font>
+
+54
+00:06:55,750 --> 00:06:58,620
+<font color="#ffff00">Cuando mi padre las vio,
+inmediatamente pensó:</font>
+
+55
+00:06:58,650 --> 00:07:02,510
+<font color="#ffff00">"Criaré a mi hija para que siempre tenga una hermosa
+sonrisa como una flor, y que nunca se desvanezca.</font>
+
+56
+00:07:02,550 --> 00:07:04,930
+<font color="#ffff00">Aunque enfrentemos dificultades o sufrimiento...</font>
+
+57
+00:07:04,970 --> 00:07:07,940
+<font color="#ffff00">vamos a sonreír, aunque no queramos.</font>
+
+58
+00:07:07,970 --> 00:07:10,500
+<font color="#ffff00">Y entonces, seremos capaces de superar cualquier cosa".</font>
+
+59
+00:07:15,190 --> 00:07:19,670
+<font color="#ffff00">Por eso, en el funeral de mis padres,
+estuve sonriendo todo el tiempo.</font>
+
+60
+00:07:19,710 --> 00:07:23,090
+<font color="#ffff00">Mi parientes pensaron: "Qué imprudente".</font>
+
+61
+00:07:23,130 --> 00:07:25,050
+<font color="#ffff00">Eso me hizo enfadar mucho.</font>
+
+62
+00:07:27,790 --> 00:07:30,670
+<font color="#ffff00">Después de todo, tal vez
+sí fue una imprudencia...</font>
+
+63
+00:07:32,330 --> 00:07:33,570
+<font color="#ffff00">No fue una imprudencia.</font>
+
+64
+00:07:37,330 --> 00:07:38,510
+<font color="#ffff00">Me alegro.</font>
+
+65
+00:08:05,710 --> 00:08:09,090
+<font color="#ffff00">Son los mismos departamentos, pero
+cada uno es diferente.</font>
+
+66
+00:08:10,110 --> 00:08:12,230
+<font color="#ffff00">Hay hogares con dinero y sin dinero.</font>
+
+67
+00:08:13,150 --> 00:08:16,310
+<font color="#ffff00">Hogares con mucha familia y casas
+de un solo habitante.</font>
+
+68
+00:08:17,230 --> 00:08:20,650
+<font color="#ffff00">Hogares con bebés y hogares
+con ancianos.</font>
+
+69
+00:08:31,890 --> 00:08:33,810
+<font color="#ffff00">Sería bueno tener un hogar.</font>
+
+70
+00:08:35,010 --> 00:08:36,170
+<font color="#ffff00">Y decir "ya llegué" al volver.</font>
+
+71
+00:08:36,930 --> 00:08:39,730
+<font color="#ffff00">Quitarse los zapatos, lavarse la
+cara y las manos...</font>
+
+72
+00:08:39,770 --> 00:08:41,730
+<font color="#ffff00">y sentarse cómodamente en un sillón.</font>
+
+73
+00:08:42,230 --> 00:08:43,190
+<font color="#ffff00">Sería genial.</font>
+
+74
+00:08:44,090 --> 00:08:45,360
+<font color="#ffff00">Me gustaría construir un estante.</font>
+
+75
+00:08:45,390 --> 00:08:49,130
+<font color="#ffff00">Llenarlo con libros y luego
+construir otro.</font>
+
+76
+00:08:49,170 --> 00:08:50,790
+<font color="#ffff00">Podría hacer lo que quisiera.</font>
+
+77
+00:08:50,830 --> 00:08:51,990
+<font color="#ffff00">En mi propia casa.</font>
+
+78
+00:08:58,270 --> 00:09:01,030
+<font color="#ffff00">Entonces, yo te diría:
+"bienvenido a casa".</font>
+
+79
+00:09:12,250 --> 00:09:12,750
+<font color="#ffff00">Hana...</font>
+
+80
+00:09:14,010 --> 00:09:14,490
+<font color="#ffff00">¿Qué?</font>
+
+81
+00:09:16,130 --> 00:09:17,570
+<font color="#ffff00">Hay algo que debo decirte...</font>
+
+82
+00:09:19,510 --> 00:09:20,490
+<font color="#ffff00">Puedes decirme lo que sea.</font>
+
+83
+00:09:21,470 --> 00:09:21,950
+<font color="#ffff00">La verdad es que...</font>
+
+84
+00:09:32,670 --> 00:09:33,830
+<font color="#ffff00">Hagamos esto de nuevo mañana.</font>
+
+85
+00:09:34,490 --> 00:09:35,010
+<font color="#ffff00">Sí...</font>
+
+86
+00:10:40,550 --> 00:10:41,110
+<font color="#ffff00">Hana...</font>
+
+87
+00:10:44,730 --> 00:10:45,930
+<font color="#ffff00">Lo siento, Hana.</font>
+
+88
+00:10:48,170 --> 00:10:49,170
+<font color="#ffff00">Todo es mi culpa.</font>
+
+89
+00:10:57,570 --> 00:10:59,350
+<font color="#ffff00">Hasta ahora, no se lo he dicho a nadie.</font>
+
+90
+00:11:00,890 --> 00:11:01,910
+<font color="#ffff00">Tenía miedo.</font>
+
+91
+00:11:02,670 --> 00:11:04,830
+<font color="#ffff00">Porque es probable que me dejes.</font>
+
+92
+00:11:05,570 --> 00:11:07,990
+<font color="#ffff00">Pero, debería habértelo dicho antes.</font>
+
+93
+00:11:08,870 --> 00:11:11,030
+<font color="#ffff00">No... debo mostrártelo.</font>
+
+94
+00:11:11,070 --> 00:11:12,260
+<font color="#ffff00">¿Mostrármelo?</font>
+
+95
+00:11:12,290 --> 00:11:14,670
+<font color="#ffff00">¿Puedes cerrar los ojos un momento?</font>
+
+96
+00:11:21,050 --> 00:11:21,870
+<font color="#ffff00">Un poco más.</font>
+
+97
+00:11:29,990 --> 00:11:31,090
+<font color="#ffff00">¿Puedo abrirlos ya?</font>
+
+98
+00:12:01,170 --> 00:12:01,910
+<font color="#ffff00">Hana...</font>
+
+99
+00:12:04,170 --> 00:12:06,490
+<font color="#ffff00">¿Cómo me veo?</font>
+
+100
+00:12:11,470 --> 00:12:14,440
+<font color="#ffff00">Las transformaciones en
+noches de luna llena,</font>
+
+101
+00:12:14,480 --> 00:12:17,410
+<font color="#ffff00">y los ataques a personas,
+sólo eran una leyenda.</font>
+
+102
+00:12:18,510 --> 00:12:21,570
+<font color="#ffff00">El mundo está lleno de cosas
+desconocidas para mí.</font>
+
+103
+00:12:22,830 --> 00:12:25,470
+<font color="#ffff00">Sí, probablemente eso fue lo
+que pensó mi madre.</font>
+
+104
+00:12:28,070 --> 00:12:29,010
+<font color="#ffff00">¿Estás sorprendida?</font>
+
+105
+00:12:30,530 --> 00:12:31,630
+<font color="#ffff00">¿Debemos dejar de vernos?</font>
+
+106
+00:12:33,850 --> 00:12:36,230
+<font color="#ffff00">Pero estás temblando... ¿Tienes miedo?</font>
+
+107
+00:12:37,030 --> 00:12:37,950
+<font color="#ffff00">No tengo miedo.</font>
+
+108
+00:12:40,590 --> 00:12:41,590
+<font color="#ffff00">Porque eres tú.</font>
+
+109
+00:12:54,010 --> 00:12:56,840
+<font color="#ffff00">Mi padre era descendiente
+de los lobos japoneses,</font>
+
+110
+00:12:56,880 --> 00:12:59,670
+<font color="#ffff00">que se extinguieron hace
+aproximadamente cien años.</font>
+
+111
+00:13:00,950 --> 00:13:05,450
+<font color="#ffff00">El último heredó una mezcla de
+sangre de lobo y humano.</font>
+
+112
+00:13:06,930 --> 00:13:12,250
+<font color="#ffff00">Cuando joven, sus padres le contaron
+la historia de la destrucción de su familia.</font>
+
+113
+00:13:13,050 --> 00:13:16,190
+<font color="#ffff00">Le dijeron que la verdad no debía
+ser revelada, y murieron después.</font>
+
+114
+00:13:17,490 --> 00:13:20,890
+<font color="#ffff00">Lo dejaron al cuidado de familiares
+que no sabían nada al respecto.</font>
+
+115
+00:13:20,930 --> 00:13:22,890
+<font color="#ffff00">Enfrentó muchos problemas
+y se convirtió en un adulto.</font>
+
+116
+00:13:24,410 --> 00:13:28,310
+<font color="#ffff00">Obtuvo su licencia de manejo y
+fue a la ciudad a buscar empleo.</font>
+
+117
+00:13:29,450 --> 00:13:32,910
+<font color="#ffff00">No conocía a nadie, y no tenía a
+nadie por quién mirar atrás.</font>
+
+118
+00:13:33,930 --> 00:13:36,930
+<font color="#ffff00">Hasta ese momento había vivido
+en secreto y escondiéndose.</font>
+
+119
+00:13:37,790 --> 00:13:39,030
+<font color="#ffff00">Eso es lo que dijo mi padre.</font>
+
+120
+00:17:30,550 --> 00:17:34,410
+<font color="#ffff00">Mi mamáme dio a luz en
+ese pequeño apartamento.</font>
+
+121
+00:17:35,410 --> 00:17:36,390
+<font color="#ffff00">En un día de nieve.</font>
+
+122
+00:17:37,190 --> 00:17:40,610
+<font color="#ffff00">Sin un hospital, incluso sin
+ayuda de una partera.</font>
+
+123
+00:17:40,650 --> 00:17:42,070
+<font color="#ffff00">Únicamente ellos dos...</font>
+
+124
+00:17:43,250 --> 00:17:46,030
+<font color="#ffff00">Mi madre estaba muy preocupada...</font>
+
+125
+00:17:46,470 --> 00:17:50,750
+<font color="#ffff00">de que si yo nacía como lobo,
+los médicos se sorprenderían.</font>
+
+126
+00:17:56,550 --> 00:17:59,720
+<font color="#ffff00">Me alegro de que haya nacido
+con seguridad.</font>
+
+127
+00:17:59,760 --> 00:18:02,360
+<font color="#ffff00">Pero las cosas apenas están empezando.</font>
+
+128
+00:18:02,400 --> 00:18:04,940
+<font color="#ffff00">¿Podrá llegar a ser una niña amable?</font>
+
+129
+00:18:04,970 --> 00:18:06,790
+<font color="#ffff00">Probablemente será una
+niña muy inteligente.</font>
+
+130
+00:18:07,670 --> 00:18:09,190
+<font color="#ffff00">Me pregunto en qué tipo de
+adulto se convertirá.</font>
+
+131
+00:18:10,190 --> 00:18:12,760
+<font color="#ffff00">Podrá ser una enfermera, una
+maestra o una panadera...</font>
+
+132
+00:18:12,800 --> 00:18:15,330
+<font color="#ffff00">Lo único que quiero es que
+trabaje en lo que le guste.</font>
+
+133
+00:18:15,950 --> 00:18:17,820
+<font color="#ffff00">Quiero criarla sin pensar en dificultades.</font>
+
+134
+00:18:17,860 --> 00:18:19,690
+<font color="#ffff00">Para que sea una niña feliz y saludable.</font>
+
+135
+00:18:19,730 --> 00:18:22,690
+<font color="#ffff00">La cuidaremos hasta que crezca.</font>
+
+136
+00:18:23,810 --> 00:18:24,270
+<font color="#ffff00">Sí.</font>
+
+137
+00:18:40,850 --> 00:18:44,430
+<font color="#ffff00">Mi hermano menor nació en la
+primavera del siguiente año.</font>
+
+138
+00:18:45,110 --> 00:18:46,330
+<font color="#ffff00">En un día de lluvia.</font>
+
+139
+00:18:48,330 --> 00:18:51,750
+<font color="#ffff00">De repente, mi padre desapareció.</font>
+
+140
+00:19:39,090 --> 00:19:43,130
+<font color="#ffff00">Ese día... no sé lo que mi
+padre estaba pensando.</font>
+
+141
+00:19:44,410 --> 00:19:48,250
+<font color="#ffff00">Probablemente fue el instinto
+de cazar comida para el niño.</font>
+
+142
+00:19:48,890 --> 00:19:52,950
+<font color="#ffff00">O quería darle a mi madre algo
+nutritivo, porquehabía dado a luz.</font>
+
+143
+00:21:56,530 --> 00:21:58,510
+<font color="#ffff00">"Dejo a los niños a tu cuidado".</font>
+
+144
+00:22:00,550 --> 00:22:03,310
+<font color="#ffff00">Mi madre lo escuchó decir eso.</font>
+
+145
+00:22:07,730 --> 00:22:08,690
+<font color="#ffff00">Déjamelo a mí.</font>
+
+146
+00:22:09,890 --> 00:22:11,010
+<font color="#ffff00">Voy a criarlos bien.</font>
+
+147
+00:22:23,110 --> 00:22:25,790
+<font color="#ffff00">Después de eso, no
+recuerdo que mi madre...</font>
+
+148
+00:22:25,820 --> 00:22:27,970
+<font color="#ffff00">se tomara algo en serio.</font>
+
+149
+00:22:28,590 --> 00:22:29,510
+<font color="#ffff00">¡Arroz!</font>
+
+150
+00:22:29,550 --> 00:22:32,050
+<font color="#ffff00">Lo estoy haciendo, espera
+un poco más, Yuki.</font>
+
+151
+00:22:32,080 --> 00:22:32,910
+<font color="#ffff00">¡Arroz!</font>
+
+152
+00:22:32,950 --> 00:22:34,110
+<font color="#ffff00">Sólo un poco más.</font>
+
+153
+00:22:34,140 --> 00:22:34,850
+<font color="#ffff00">¡Arroz!</font>
+
+154
+00:22:34,880 --> 00:22:35,550
+<font color="#ffff00">¡Yuki!</font>
+
+155
+00:22:38,070 --> 00:22:39,830
+<font color="#ffff00">Ella decía que cada vez
+que me enojaba y refunfuñaba,</font>
+
+156
+00:22:39,860 --> 00:22:43,110
+<font color="#ffff00">mi pelaje crecía y me convertía en lobo.</font>
+
+157
+00:22:43,450 --> 00:22:45,290
+<font color="#ffff00">Oh, supongo que no lo puedo evitar.</font>
+
+158
+00:22:45,320 --> 00:22:47,130
+<font color="#ffff00">Toma un bizcocho antes de la comida.</font>
+
+159
+00:22:53,730 --> 00:22:55,170
+<font color="#ffff00">Al parecer, solía comer mucho.</font>
+
+160
+00:22:55,210 --> 00:22:58,630
+<font color="#ffff00">Gritaba y buscaba comida desde
+la mañana hasta la noche.</font>
+
+161
+00:23:00,150 --> 00:23:03,130
+<font color="#ffff00">Era muy diferente de mi hermano,
+que comía poco y era débil.</font>
+
+162
+00:23:06,190 --> 00:23:08,970
+<font color="#ffff00">Mi madre abandonó la universidad
+para criarnos.</font>
+
+163
+00:23:09,010 --> 00:23:11,100
+<font color="#ffff00">Y también tuvo que dejar el
+trabajo de tiempo parcial.</font>
+
+164
+00:23:13,030 --> 00:23:14,600
+<font color="#ffff00">Estuvo cerca.</font>
+
+165
+00:23:15,270 --> 00:23:19,890
+<font color="#ffff00">Los ahorros que mi padre dejó,
+sirvieron para mantenernos un tiempo.</font>
+
+166
+00:23:29,750 --> 00:23:31,090
+<font color="#ffff00">Estuvo cerca.</font>
+
+167
+00:23:31,870 --> 00:23:34,610
+<font color="#ffff00">Mi madre se preguntaba...</font>
+
+168
+00:23:34,650 --> 00:23:38,690
+<font color="#ffff00">si era mejor educarnos como
+humanos o como lobos.</font>
+
+169
+00:23:38,720 --> 00:23:41,230
+<font color="#ffff00">No sabía qué hacer.</font>
+
+170
+00:23:50,130 --> 00:23:51,690
+<font color="#ffff00">Miren lo que han hecho...</font>
+
+171
+00:23:54,750 --> 00:23:58,390
+<font color="#ffff00">No era algo que nuestra madre
+pudiera contarle a los vecinos.</font>
+
+172
+00:23:58,420 --> 00:24:01,090
+<font color="#ffff00">Así que tuvo que aprender directamente
+de los libros.</font>
+
+173
+00:24:02,490 --> 00:24:04,590
+<font color="#ffff00">De día o noche, tenía que amamantarnos
+durante dos horas.</font>
+
+174
+00:24:05,430 --> 00:24:10,590
+<font color="#ffff00">Cuando sus pechos no lactaban,
+usaba leche descremada.</font>
+
+175
+00:24:10,610 --> 00:24:15,520
+<font color="#ffff00">VIVIENDO CON LOBOS</font>
+
+176
+00:24:22,190 --> 00:24:25,590
+<font color="#ffff00">Pero, cuando no tenía hambre y
+seguía llorando...</font>
+
+177
+00:24:25,620 --> 00:24:27,250
+<font color="#ffff00">no sabía que hacer...</font>
+
+178
+00:24:27,290 --> 00:24:30,470
+<font color="#ffff00">Y se quedaba toda la noche abrazándolo
+y acariciándole la espalda.</font>
+
+179
+00:24:33,690 --> 00:24:36,210
+<font color="#ffff00">Por eso siempre se quedaba dormida.</font>
+
+180
+00:24:44,010 --> 00:24:45,130
+<font color="#ffff00">Está bien.</font>
+
+181
+00:24:46,050 --> 00:24:48,190
+<font color="#ffff00">Por eso siempre se quedaba dormida.</font>
+
+182
+00:24:48,230 --> 00:24:50,430
+<font color="#ffff00">Incluso si cerraba los ojos sólo
+por un momento.</font>
+
+183
+00:24:53,410 --> 00:24:54,430
+<font color="#ffff00">Mamá...</font>
+
+184
+00:24:55,110 --> 00:24:55,550
+<font color="#ffff00">¿Qué?</font>
+
+185
+00:24:59,550 --> 00:25:01,330
+<font color="#ffff00">El problema fue cuando nos enfermamos.</font>
+
+186
+00:25:02,970 --> 00:25:03,850
+<font color="#ffff00">¿Yuki?</font>
+
+187
+00:25:05,870 --> 00:25:06,670
+<font color="#ffff00">¿Yuki?</font>
+
+188
+00:25:07,730 --> 00:25:08,390
+<font color="#ffff00">¡Yuki!</font>
+
+189
+00:25:19,070 --> 00:25:22,630
+<font color="#ffff00">No sabía si debía ir con el
+pediatra o con el veterinario...</font>
+
+190
+00:25:23,570 --> 00:25:26,530
+<font color="#ffff00">Mi hija comió desecante por accidente...</font>
+
+191
+00:25:27,030 --> 00:25:28,150
+<font color="#ffff00">Tiene dos años de edad.</font>
+
+192
+00:25:28,180 --> 00:25:29,470
+<font color="#ffff00">Sí, ha vomitado.</font>
+
+193
+00:25:29,510 --> 00:25:31,130
+<font color="#ffff00">No había sangre en él.</font>
+
+194
+00:25:31,730 --> 00:25:33,610
+<font color="#ffff00">Tenía escrito "gel de sílice".</font>
+
+195
+00:25:34,350 --> 00:25:36,330
+<font color="#ffff00">Pero... ¿hay alguna complicación?</font>
+
+196
+00:25:37,210 --> 00:25:38,910
+<font color="#ffff00">¿Eh? ¿Su apetito?</font>
+
+197
+00:25:40,350 --> 00:25:41,750
+<font color="#ffff00">¡Tengo hambre!</font>
+
+198
+00:25:43,230 --> 00:25:44,230
+<font color="#ffff00">Ya veo...</font>
+
+199
+00:25:44,770 --> 00:25:46,230
+<font color="#ffff00">Está bien...</font>
+
+200
+00:25:46,750 --> 00:25:52,310
+<font color="#ffff00">Lamentaba no haber preguntado a mi
+padre cómo fue criado de pequeño.</font>
+
+201
+00:25:52,950 --> 00:25:53,830
+<font color="#ffff00">¡Caminar!</font>
+
+202
+00:25:53,870 --> 00:25:54,950
+<font color="#ffff00">Yuki, sobre eso..</font>
+
+203
+00:25:54,980 --> 00:25:55,850
+<font color="#ffff00">¡Caminar!</font>
+
+204
+00:25:55,890 --> 00:25:58,290
+<font color="#ffff00">Has estado enferma estos últimos días...</font>
+
+205
+00:25:58,320 --> 00:25:59,180
+<font color="#ffff00">Por eso...</font>
+
+206
+00:25:59,210 --> 00:25:59,990
+<font color="#ffff00">¡Caminar!</font>
+
+207
+00:26:00,030 --> 00:26:01,950
+<font color="#ffff00">Está bien, entiendo, rayos...</font>
+
+208
+00:26:01,980 --> 00:26:03,870
+<font color="#ffff00">Vamos, esconde tus orejas.</font>
+
+209
+00:26:06,690 --> 00:26:08,090
+<font color="#ffff00">Muy bien, vamos a caminar.</font>
+
+210
+00:26:10,310 --> 00:26:13,510
+<font color="#ffff00">¡Esconde tus orejas! ¡Las estás
+mostrando otra vez!</font>
+
+211
+00:26:14,750 --> 00:26:15,310
+<font color="#ffff00">¡Sí!</font>
+
+212
+00:26:36,290 --> 00:26:38,290
+<font color="#ffff00">Hola, qué linda.</font>
+
+213
+00:26:38,330 --> 00:26:40,910
+<font color="#ffff00">Dijo que eres linda,
+¿no te alegras?</font>
+
+214
+00:26:45,350 --> 00:26:46,450
+<font color="#ffff00">L- Lo siento.</font>
+
+215
+00:26:46,480 --> 00:26:47,190
+<font color="#ffff00">No...</font>
+
+216
+00:26:55,470 --> 00:26:57,690
+<font color="#ffff00">Pero ese no era el único problema.</font>
+
+217
+00:27:04,670 --> 00:27:07,510
+<font color="#ffff00">¿Qué hora crees que es?
+¡Deja de hacer ruido!</font>
+
+218
+00:27:08,910 --> 00:27:09,890
+<font color="#ffff00">Lo siento mucho.</font>
+
+219
+00:27:09,930 --> 00:27:12,670
+<font color="#ffff00">¡Cada noche es lo mismo!
+¡Cállalo de una vez, idiota!</font>
+
+220
+00:27:12,830 --> 00:27:14,170
+<font color="#ffff00">De verdad lo siento.</font>
+
+221
+00:27:14,830 --> 00:27:16,810
+<font color="#ffff00">¡Enséñales un poco de disciplina!</font>
+
+222
+00:27:20,370 --> 00:27:23,150
+<font color="#ffff00">Ya, ya, está bien.</font>
+
+223
+00:27:42,570 --> 00:27:46,910
+<font color="#ffff00">El contrato dice que está prohibido
+tener mascotas.</font>
+
+224
+00:27:46,940 --> 00:27:48,320
+<font color="#ffff00">No tengo ninguna.</font>
+
+225
+00:27:48,360 --> 00:27:49,670
+<font color="#ffff00">¡No mientas!</font>
+
+226
+00:27:49,710 --> 00:27:51,600
+<font color="#ffff00">Vamos a investigarlo.</font>
+
+227
+00:27:51,870 --> 00:27:54,010
+<font color="#ffff00">¿De acuerdo? Si quieres hacer
+las cosas a tu manera,</font>
+
+228
+00:27:54,040 --> 00:27:57,070
+<font color="#ffff00">puedes irte al lugar que prefieras.</font>
+
+229
+00:28:00,850 --> 00:28:02,190
+<font color="#ffff00">¿Del Centro de Consulta Infantil?</font>
+
+230
+00:28:02,230 --> 00:28:06,330
+<font color="#ffff00">A los vecinos les preocupa que los
+niños pudieran estar en peligro.</font>
+
+231
+00:28:06,730 --> 00:28:08,010
+<font color="#ffff00">¿Qué quiere decir?</font>
+
+232
+00:28:08,350 --> 00:28:11,550
+<font color="#ffff00">La investigación dice que nunca
+les hizo un chequeo médico.</font>
+
+233
+00:28:11,580 --> 00:28:13,550
+<font color="#ffff00">Y tampoco han sido vacunados, ¿verdad?</font>
+
+234
+00:28:14,410 --> 00:28:16,710
+<font color="#ffff00">Están bien, son muy saludables.</font>
+
+235
+00:28:16,750 --> 00:28:20,270
+<font color="#ffff00">En ese caso, ¿podríamos echar un vistazo?</font>
+
+236
+00:28:20,950 --> 00:28:21,990
+<font color="#ffff00">Bueno, es que...</font>
+
+237
+00:28:22,030 --> 00:28:23,170
+<font color="#ffff00">Solo será un segundo.</font>
+
+238
+00:28:23,210 --> 00:28:26,390
+<font color="#ffff00">Es sólo para confirmar si lo
+que está diciendo es verdad.</font>
+
+239
+00:28:26,420 --> 00:28:28,030
+<font color="#ffff00">E- Eso no es posible en este momento.</font>
+
+240
+00:28:28,070 --> 00:28:31,610
+<font color="#ffff00">Si sigue así, tendremos que sospechar
+de maltrato y abandono.</font>
+
+241
+00:28:32,390 --> 00:28:33,550
+<font color="#ffff00">¡Váyanse, por favor!</font>
+
+242
+00:29:12,710 --> 00:29:13,590
+<font color="#ffff00">¡Muy lento!</font>
+
+243
+00:29:14,750 --> 00:29:15,470
+<font color="#ffff00">Oigan...</font>
+
+244
+00:29:16,710 --> 00:29:17,990
+<font color="#ffff00">¿Qué pasa, mamá?</font>
+
+245
+00:29:18,500 --> 00:29:19,990
+<font color="#ffff00">¿Qué quieren ser a partir de ahora?</font>
+
+246
+00:29:21,170 --> 00:29:23,170
+<font color="#ffff00">¿Humanos o lobos?</font>
+
+247
+00:29:27,870 --> 00:29:29,210
+<font color="#ffff00">Estaba pensando en mudarnos...</font>
+
+248
+00:29:31,290 --> 00:29:33,010
+<font color="#ffff00">A un lugar en el que puedan escoger
+lo que quieran ser.</font>
+
+249
+00:29:53,350 --> 00:29:55,750
+<font color="#ffff00">Vamos a empezar con las casas
+vacías del ayuntamiento.</font>
+
+250
+00:29:55,790 --> 00:29:58,950
+<font color="#ffff00">Cada vez hay más gente diciendo
+que quiere vivir en el campo.</font>
+
+251
+00:29:58,980 --> 00:30:00,910
+<font color="#ffff00">Pero no se quedan mucho tiempo.</font>
+
+252
+00:30:01,450 --> 00:30:03,850
+<font color="#ffff00">Como puede ver, no hay mucho por aquí.</font>
+
+253
+00:30:03,890 --> 00:30:06,630
+<font color="#ffff00">Las escuelas primarias y los hospitales
+están a 30 minutos en coche.</font>
+
+254
+00:30:06,660 --> 00:30:10,090
+<font color="#ffff00">Y las secundarias, a dos horas
+y media en autobús y tren.</font>
+
+255
+00:30:10,120 --> 00:30:11,900
+<font color="#ffff00">¡De ida y vuelta son cinco horas!</font>
+
+256
+00:30:12,030 --> 00:30:15,170
+<font color="#ffff00">Incluso si quiere criar a sus
+hijos en un buen ambiente...</font>
+
+257
+00:30:17,350 --> 00:30:19,650
+<font color="#ffff00">Yo diría que la ciudad es un lugar
+mucho más conveniente.</font>
+
+258
+00:30:36,470 --> 00:30:37,850
+<font color="#ffff00">Es muy grande...</font>
+
+259
+00:30:38,690 --> 00:30:41,230
+<font color="#ffff00">Aunque la renta hace que este sitio
+parezca casi gratis,</font>
+
+260
+00:30:41,260 --> 00:30:43,590
+<font color="#ffff00">el precio de las reparaciones
+sería una locura.</font>
+
+261
+00:30:44,190 --> 00:30:45,930
+<font color="#ffff00">Ya que se trata de una casa abandonada...</font>
+
+262
+00:30:45,960 --> 00:30:47,670
+<font color="#ffff00">Ah, puede entrar sin quitarse los zapatos.</font>
+
+263
+00:30:48,410 --> 00:30:50,930
+<font color="#ffff00">Este lugar está prácticamente en ruinas.</font>
+
+264
+00:30:51,950 --> 00:30:54,130
+<font color="#ffff00">Pero al menos la electricidad
+sigue funcionando.</font>
+
+265
+00:30:54,770 --> 00:30:56,130
+<font color="#ffff00">El flujo del agua no se ha secado.</font>
+
+266
+00:30:56,170 --> 00:30:58,450
+<font color="#ffff00">Y algunas cosas del cobertizo
+también se pueden usar.</font>
+
+267
+00:30:58,480 --> 00:30:59,990
+<font color="#ffff00">Eso es un campo, ¿verdad?</font>
+
+268
+00:31:00,030 --> 00:31:02,910
+<font color="#ffff00">Ah, este lugar no es adecuado
+para la autosuficiencia.</font>
+
+269
+00:31:02,950 --> 00:31:05,430
+<font color="#ffff00">Los animales descienden de la montaña
+y dañan los campos.</font>
+
+270
+00:31:06,250 --> 00:31:08,590
+<font color="#ffff00">Incluso si plantara vegetales, acabarían
+por comérselos todos.</font>
+
+271
+00:31:09,530 --> 00:31:11,170
+<font color="#ffff00">Las casas de esta zona terminaron
+abandonadas porque...</font>
+
+272
+00:31:11,210 --> 00:31:13,510
+<font color="#ffff00">los humanos de aquí, terminaron
+siendo expulsados por ellos.</font>
+
+273
+00:31:13,540 --> 00:31:15,270
+<font color="#ffff00">Entonces, los vecinos...</font>
+
+274
+00:31:15,310 --> 00:31:18,730
+<font color="#ffff00">no vienen por aquí, así que
+nunca verá a alguien.</font>
+
+275
+00:31:19,990 --> 00:31:21,450
+<font color="#ffff00">¿Le gustaría ver algún otro lugar?</font>
+
+276
+00:31:22,110 --> 00:31:23,670
+<font color="#ffff00">En los alrededores del pueblo
+sería más práctico...</font>
+
+277
+00:31:23,700 --> 00:31:24,670
+<font color="#ffff00">Ya lo he decido.</font>
+
+278
+00:31:24,800 --> 00:31:25,400
+<font color="#ffff00">¿Eh?</font>
+
+279
+00:31:25,910 --> 00:31:27,230
+<font color="#ffff00">He decidido quedarme en esta casa.</font>
+
+280
+00:31:29,110 --> 00:31:29,730
+<font color="#ffff00">¿Por qué?</font>
+
+281
+00:31:31,010 --> 00:31:32,230
+<font color="#ffff00">¿Dónde estamos?</font>
+
+282
+00:31:32,270 --> 00:31:33,230
+<font color="#ffff00">En nuestra nueva casa.</font>
+
+283
+00:31:45,190 --> 00:31:46,570
+<font color="#ffff00">¡Está inclinada!</font>
+
+284
+00:31:51,050 --> 00:31:52,410
+<font color="#ffff00">¡Hola, hormigas!</font>
+
+285
+00:31:55,470 --> 00:31:56,450
+<font color="#ffff00">¿Qué es eso?</font>
+
+286
+00:32:02,590 --> 00:32:04,190
+<font color="#ffff00">¡Pisa! ¡Pisa!</font>
+
+287
+00:32:10,910 --> 00:32:12,550
+<font color="#ffff00">¡Ayuda!</font>
+
+288
+00:32:15,170 --> 00:32:17,210
+<font color="#ffff00">¿Y bien? ¿Les gusta?</font>
+
+289
+00:32:17,630 --> 00:32:18,630
+<font color="#ffff00">¡Me gusta!</font>
+
+290
+00:32:19,490 --> 00:32:21,090
+<font color="#ffff00">Regresemos...</font>
+
+291
+00:32:27,990 --> 00:32:31,010
+<font color="#ffff00">Ella quería un lugar donde no hubiera
+nadie viviendo cerca.</font>
+
+292
+00:32:31,550 --> 00:32:33,730
+<font color="#ffff00">Creo que es un poco excéntrica.</font>
+
+293
+00:32:34,030 --> 00:32:34,870
+<font color="#ffff00">¿Y su esposo?</font>
+
+294
+00:32:34,900 --> 00:32:35,810
+<font color="#ffff00">Quién sabe...</font>
+
+295
+00:32:35,850 --> 00:32:36,670
+<font color="#ffff00">¿Algún ingreso?</font>
+
+296
+00:32:36,700 --> 00:32:37,450
+<font color="#ffff00">Quién sabe...</font>
+
+297
+00:32:37,490 --> 00:32:40,110
+<font color="#ffff00">Entonces, ¿cómo planea proveer
+alimentos para ella y sus hijos?</font>
+
+298
+00:32:41,290 --> 00:32:42,950
+<font color="#ffff00">¡Abuelo Nirasaki!</font>
+
+299
+00:32:42,990 --> 00:32:45,570
+<font color="#ffff00">¡Por favor, sea amable con ellos esta vez!</font>
+
+300
+00:32:59,830 --> 00:33:01,410
+<font color="#ffff00">3... 2...</font>
+
+301
+00:33:38,050 --> 00:33:39,910
+<font color="#ffff00">¡Mira, mira! ¡Mamá, mira!</font>
+
+302
+00:33:46,310 --> 00:33:48,070
+<font color="#ffff00">Ven aquí, ven aquí... ¡Vamos!</font>
+
+303
+00:33:48,990 --> 00:33:50,310
+<font color="#ffff00">Vamos, ven aquí, vamos.</font>
+
+304
+00:34:14,590 --> 00:34:15,690
+<font color="#ffff00">Ame 4 años</font>
+
+305
+00:34:15,720 --> 00:34:16,790
+<font color="#ffff00">Yuki 5 años</font>
+
+306
+00:34:54,050 --> 00:34:55,240
+<font color="#ffff00">Muchas gracias.</font>
+
+307
+00:34:55,270 --> 00:34:56,430
+<font color="#ffff00">Vuelva pronto.</font>
+
+308
+00:35:02,270 --> 00:35:04,670
+<font color="#ffff00">Buenas tardes.</font>
+
+309
+00:35:06,610 --> 00:35:07,610
+<font color="#ffff00">Oye, ven aquí.</font>
+
+310
+00:35:07,650 --> 00:35:09,690
+<font color="#ffff00">¿Esa es la mujer de los rumores?</font>
+
+311
+00:35:34,370 --> 00:35:37,090
+<font color="#ffff00">Ahora, voy a tener que empezar
+a ahorrar lo más que pueda.</font>
+
+312
+00:35:37,120 --> 00:35:38,270
+<font color="#ffff00">¿Ahorrar?</font>
+
+313
+00:35:39,070 --> 00:35:42,130
+<font color="#ffff00">Tendremos que hacer cosas, como
+plantar nuestros vegetales.</font>
+
+314
+00:35:44,630 --> 00:35:45,930
+<font color="#ffff00">¡Quiero ayudar!</font>
+
+315
+00:35:47,990 --> 00:35:49,090
+<font color="#ffff00">Esperen aquí, ¿está bien?</font>
+
+316
+00:35:49,120 --> 00:35:49,730
+<font color="#ffff00">Sí.</font>
+
+317
+00:35:55,050 --> 00:35:55,970
+<font color="#ffff00">Estos, por favor.</font>
+
+318
+00:35:56,000 --> 00:35:56,710
+<font color="#ffff00">Sí.</font>
+
+319
+00:35:57,230 --> 00:35:58,650
+<font color="#ffff00">Estos también, por favor.</font>
+
+320
+00:35:59,770 --> 00:36:00,500
+<font color="#ffff00">¡Yuki!</font>
+
+321
+00:36:02,350 --> 00:36:06,850
+<font color="#ffff00">El hecho de que Yuki y Ame son niños lobo,
+es nuestro secreto.</font>
+
+322
+00:36:06,880 --> 00:36:07,650
+<font color="#ffff00">¡Sí!</font>
+
+323
+00:36:08,030 --> 00:36:10,010
+<font color="#ffff00">Si de repente se transforman en lobos...</font>
+
+324
+00:36:10,040 --> 00:36:11,610
+<font color="#ffff00">¡todo el mundo se sorprenderá!</font>
+
+325
+00:36:12,310 --> 00:36:15,330
+<font color="#ffff00">Por eso que no deben convertirse en
+lobos frente a la gente.</font>
+
+326
+00:36:15,360 --> 00:36:16,870
+<font color="#ffff00">¿Está bien? Es una promesa.</font>
+
+327
+00:36:16,900 --> 00:36:18,070
+<font color="#ffff00">¡Entendido!</font>
+
+328
+00:36:18,510 --> 00:36:20,090
+<font color="#ffff00">Una cosa más.</font>
+
+329
+00:36:20,130 --> 00:36:22,370
+<font color="#ffff00">Si se llegan a encontrar con algún
+animal de la montaña...</font>
+
+330
+00:36:22,400 --> 00:36:23,970
+<font color="#ffff00">No sean arrogantes con él.</font>
+
+331
+00:36:24,000 --> 00:36:24,990
+<font color="#ffff00">¿Por qué?</font>
+
+332
+00:36:25,550 --> 00:36:27,430
+<font color="#ffff00">Porque eso pondría triste a su padre.</font>
+
+333
+00:36:28,110 --> 00:36:29,550
+<font color="#ffff00">¿Está bien? ¿Entendieron?</font>
+
+334
+00:36:29,580 --> 00:36:30,610
+<font color="#ffff00">¡Entendido!</font>
+
+335
+00:36:31,530 --> 00:36:32,700
+<font color="#ffff00">"¡No te lo perdonaremos!", decían los
+aldeanos armados, perseguiendo al lobo.</font>
+
+336
+00:36:32,700 --> 00:36:36,020
+<font color="#ffff00">"¡No te lo perdonaremos!", decían los
+aldeanos armados, perseguiendo al lobo.
+"¡No te lo perdonaremos!", decían los
+aldeanos armados, perseguiendo al lobo.</font>
+
+337
+00:37:04,690 --> 00:37:05,710
+<font color="#ffff00">¿Por qué?</font>
+
+338
+00:37:05,750 --> 00:37:07,290
+<font color="#ffff00">Me pregunto por qué...</font>
+
+339
+00:37:11,130 --> 00:37:13,150
+<font color="#ffff00">Esto... ¡Disculpen!</font>
+
+340
+00:37:13,180 --> 00:37:14,550
+<font color="#ffff00">¿Eh?</font>
+
+341
+00:37:14,590 --> 00:37:17,700
+<font color="#ffff00">¿Puedo tomar las hojas caídas del bosque?</font>
+
+342
+00:37:18,270 --> 00:37:19,590
+<font color="#ffff00">¿Qué dices?</font>
+
+343
+00:37:19,630 --> 00:37:21,170
+<font color="#ffff00">Las hojas caídas.</font>
+
+344
+00:37:21,210 --> 00:37:24,370
+<font color="#ffff00">No tienes que pedirle permiso a
+nadie para tomarlas.</font>
+
+345
+00:37:25,150 --> 00:37:26,370
+<font color="#ffff00">¡Muchas gracias!</font>
+
+346
+00:37:29,010 --> 00:37:30,730
+<font color="#ffff00">¿Por cuánto tiempo va a seguir así?</font>
+
+347
+00:37:30,770 --> 00:37:34,630
+<font color="#ffff00">Se ha hablado mucho sobre ella,
+en la tienda, en el karaoke.</font>
+
+348
+00:37:34,660 --> 00:37:35,870
+<font color="#ffff00">No lo dudo.</font>
+
+349
+00:37:50,280 --> 00:37:51,230
+<font color="#ffff00">Esta vez seguramente...</font>
+
+350
+00:37:52,090 --> 00:37:53,090
+<font color="#ffff00">Mamá...</font>
+
+351
+00:37:55,470 --> 00:37:57,310
+<font color="#ffff00">¡Ame! ¿Qué te pasó?</font>
+
+352
+00:37:57,340 --> 00:37:58,170
+<font color="#ffff00">¡Un gato carey!</font>
+
+353
+00:37:58,740 --> 00:38:01,650
+<font color="#ffff00">Aunque es un lobo, lo atacó
+porque es débil.</font>
+
+354
+00:38:01,680 --> 00:38:03,700
+<font color="#ffff00">Sólo son rasguños, no es nada grave.</font>
+
+355
+00:38:03,770 --> 00:38:05,410
+<font color="#ffff00">¡Así no podrás sobrevivir!</font>
+
+356
+00:38:05,440 --> 00:38:06,350
+<font color="#ffff00">Yuki.</font>
+
+357
+00:38:06,390 --> 00:38:07,820
+<font color="#ffff00">¿Vas a consolarme?</font>
+
+358
+00:38:08,630 --> 00:38:10,190
+<font color="#ffff00">Vas a estar bien, vas a estar bien.</font>
+
+359
+00:38:10,230 --> 00:38:12,770
+<font color="#ffff00">¡Yuki nunca pierde, ni siquiera contra un jabalí!</font>
+
+360
+00:38:12,800 --> 00:38:14,010
+<font color="#ffff00">¿Viste un jabalí?</font>
+
+361
+00:38:14,050 --> 00:38:16,480
+<font color="#ffff00">¡Lo vi! ¡Y también vi un mono
+y una cabra salvaje!</font>
+
+362
+00:38:16,520 --> 00:38:18,310
+<font color="#ffff00">¡Pero no tenía nada de miedo!</font>
+
+363
+00:38:18,350 --> 00:38:20,870
+<font color="#ffff00">Fue divertido cuando los
+perseguí y huyeron.</font>
+
+364
+00:38:20,900 --> 00:38:21,530
+<font color="#ffff00">Además...</font>
+
+365
+00:38:21,560 --> 00:38:22,450
+<font color="#ffff00">Yuki.</font>
+
+366
+00:38:22,490 --> 00:38:24,560
+<font color="#ffff00">Además, cuando oriné...</font>
+
+367
+00:38:24,600 --> 00:38:25,730
+<font color="#ffff00">Recuerda...</font>
+
+368
+00:38:25,770 --> 00:38:28,450
+<font color="#ffff00">No puedes ser arrogante con los animales.</font>
+
+369
+00:38:28,480 --> 00:38:29,420
+<font color="#ffff00">Pero...</font>
+
+370
+00:38:29,460 --> 00:38:30,370
+<font color="#ffff00">Por favor.</font>
+
+371
+00:38:33,260 --> 00:38:33,980
+<font color="#ffff00">Sí.</font>
+
+372
+00:38:36,010 --> 00:38:36,870
+<font color="#ffff00">Gracias.</font>
+
+373
+00:38:36,910 --> 00:38:39,050
+<font color="#ffff00">¿Puedes consolarme de nuevo?</font>
+
+374
+00:38:40,760 --> 00:38:42,810
+<font color="#ffff00">Vas a estar bien, vas a estar bien.</font>
+
+375
+00:38:45,370 --> 00:38:46,630
+<font color="#ffff00">Pero, ciertamente...</font>
+
+376
+00:38:47,850 --> 00:38:51,870
+<font color="#ffff00">¿Cómo se convierte en adulto un niño lobo?</font>
+
+377
+00:38:54,370 --> 00:38:56,150
+<font color="#ffff00">¡Yuki! ¡Espera!</font>
+
+378
+00:38:56,180 --> 00:38:57,290
+<font color="#ffff00">Cárgame.</font>
+
+379
+00:38:57,330 --> 00:38:58,370
+<font color="#ffff00">¿Ya?</font>
+
+380
+00:38:58,400 --> 00:39:00,510
+<font color="#ffff00">¡Son muy lentos! ¡Rápido!</font>
+
+381
+00:39:01,670 --> 00:39:05,540
+<font color="#ffff00">Los lobos empiezan a cazar 4
+meses después de nacer.</font>
+
+382
+00:39:06,240 --> 00:39:09,580
+<font color="#ffff00">Primero, empiezan con presas
+menores como ratas.</font>
+
+383
+00:39:09,610 --> 00:39:12,910
+<font color="#ffff00">Cuando crecen, se unen con
+los lobos adultos y...</font>
+
+384
+00:39:12,940 --> 00:39:13,810
+<font color="#ffff00">¡Equipo!</font>
+
+385
+00:39:13,850 --> 00:39:14,680
+<font color="#ffff00">¡No!</font>
+
+386
+00:39:15,340 --> 00:39:16,480
+<font color="#ffff00">De todos modos no quería.</font>
+
+387
+00:39:20,090 --> 00:39:21,840
+<font color="#ffff00">¡No te vayas muy lejos!</font>
+
+388
+00:39:21,880 --> 00:39:22,500
+<font color="#ffff00">¡Sí!</font>
+
+389
+00:39:24,690 --> 00:39:26,310
+<font color="#ffff00">¿Ya nos vamos?</font>
+
+390
+00:39:26,340 --> 00:39:27,390
+<font color="#ffff00">Oye, Ame.</font>
+
+391
+00:39:27,850 --> 00:39:30,100
+<font color="#ffff00">¿Crees que podamos comer esta planta?</font>
+
+392
+00:39:30,140 --> 00:39:31,360
+<font color="#ffff00">Esto...</font>
+
+393
+00:39:47,660 --> 00:39:48,720
+<font color="#ffff00">¡La atrapé!</font>
+
+394
+00:39:55,480 --> 00:39:56,380
+<font color="#ffff00">¡La atrapé!</font>
+
+395
+00:40:03,260 --> 00:40:04,580
+<font color="#ffff00">Oye, Ame, mira.</font>
+
+396
+00:40:14,260 --> 00:40:16,180
+<font color="#ffff00">Vas a estar bien, vas a estar bien.</font>
+
+397
+00:40:16,220 --> 00:40:17,500
+<font color="#ffff00">¡Mamá! ¡Mira, mira!</font>
+
+398
+00:40:17,540 --> 00:40:18,750
+<font color="#ffff00">¡Es un cormorán grande!</font>
+
+399
+00:40:18,790 --> 00:40:20,580
+<font color="#ffff00">Hay una corriente de agua
+al otro lado y...</font>
+
+400
+00:40:23,040 --> 00:40:24,020
+<font color="#ffff00">Mamá...</font>
+
+401
+00:40:25,460 --> 00:40:28,660
+<font color="#ffff00">¿Por qué los lobos siempre son los malos?</font>
+
+402
+00:40:29,340 --> 00:40:31,540
+<font color="#ffff00">¿Lo dices por el libro de cuentos?</font>
+
+403
+00:40:32,500 --> 00:40:36,060
+<font color="#ffff00">Todos lo odian y al final
+terminan matándolo.</font>
+
+404
+00:40:36,740 --> 00:40:38,520
+<font color="#ffff00">Por eso, yo...</font>
+
+405
+00:40:38,560 --> 00:40:40,300
+<font color="#ffff00">Odio ser un lobo.</font>
+
+406
+00:40:43,550 --> 00:40:44,490
+<font color="#ffff00">Ya veo...</font>
+
+407
+00:40:44,530 --> 00:40:45,440
+<font color="#ffff00">Pero...</font>
+
+408
+00:40:46,880 --> 00:40:49,280
+<font color="#ffff00">A tu mamá le gustan los lobos.</font>
+
+409
+00:40:49,320 --> 00:40:51,520
+<font color="#ffff00">Aunque todos los odien...</font>
+
+410
+00:40:52,150 --> 00:40:54,840
+<font color="#ffff00">Tu mamá es aliada de los lobos,
+aunque sea ella sola.</font>
+
+411
+00:41:03,520 --> 00:41:06,340
+<font color="#ffff00">¡Mamá! ¡Mamá!</font>
+
+412
+00:41:07,320 --> 00:41:08,330
+<font color="#ffff00">¿Qué pasa?</font>
+
+413
+00:41:08,360 --> 00:41:09,660
+<font color="#ffff00">¡Se están marchitando de nuevo!</font>
+
+414
+00:41:15,480 --> 00:41:16,570
+<font color="#ffff00">¿Una plaga?</font>
+
+415
+00:41:16,600 --> 00:41:17,820
+<font color="#ffff00">¿Infectó a todas?</font>
+
+416
+00:41:18,480 --> 00:41:19,640
+<font color="#ffff00">¡No puede ser!</font>
+
+417
+00:41:19,680 --> 00:41:20,640
+<font color="#ffff00">Mamá...</font>
+
+418
+00:41:22,040 --> 00:41:24,620
+<font color="#ffff00">¿Qué va a pasar con nosotros ahora?</font>
+
+419
+00:41:29,280 --> 00:41:32,320
+<font color="#ffff00">Está mal. Tu mamá aún tiene
+mucho que aprender.</font>
+
+420
+00:41:32,900 --> 00:41:34,340
+<font color="#ffff00">¿Me ayudarás de nuevo?</font>
+
+421
+00:41:35,920 --> 00:41:36,580
+<font color="#ffff00">Lo haré.</font>
+
+422
+00:41:37,320 --> 00:41:38,040
+<font color="#ffff00">Gracias.</font>
+
+423
+00:41:41,880 --> 00:41:42,800
+<font color="#ffff00">Ve adentro.</font>
+
+424
+00:41:42,840 --> 00:41:43,300
+<font color="#ffff00">Sí.</font>
+
+425
+00:41:44,920 --> 00:41:45,720
+<font color="#ffff00">Buenas tardes.</font>
+
+426
+00:41:46,600 --> 00:41:49,080
+<font color="#ffff00">Estaba pensando en ir a
+saludarlo a su casa,</font>
+
+427
+00:41:49,120 --> 00:41:50,580
+<font color="#ffff00">pero con toda la conmoción...</font>
+
+428
+00:41:50,660 --> 00:41:53,700
+<font color="#ffff00">Cultivar alimentos es más difícil
+de lo que parece, ¿verdad?</font>
+
+429
+00:41:53,740 --> 00:41:56,740
+<font color="#ffff00">Aunque hice todo lo que decían
+los libros, terminé fallando.</font>
+
+430
+00:41:57,440 --> 00:41:59,560
+<font color="#ffff00">Pero este es un buen lugar, ¿verdad?</font>
+
+431
+00:41:59,600 --> 00:42:00,900
+<font color="#ffff00">Lleno de naturaleza.</font>
+
+432
+00:42:01,620 --> 00:42:03,130
+<font color="#ffff00">¿Qué es tan natural?</font>
+
+433
+00:42:03,160 --> 00:42:06,240
+<font color="#ffff00">Lo que plantaste hoy no crecerá
+mañana, ¿verdad?</font>
+
+434
+00:42:07,600 --> 00:42:10,180
+<font color="#ffff00">"No importa cuántas veces lo intente,
+siempre será lo mismo".</font>
+
+435
+00:42:10,220 --> 00:42:12,080
+<font color="#ffff00">¿No es lo que estabas pensando?</font>
+
+436
+00:42:12,120 --> 00:42:13,740
+<font color="#ffff00">E- Eso es...</font>
+
+437
+00:42:13,780 --> 00:42:15,360
+<font color="#ffff00">¡No sonrías!</font>
+
+438
+00:42:16,080 --> 00:42:17,060
+<font color="#ffff00">¿Por qué estás sonriendo?</font>
+
+439
+00:42:17,720 --> 00:42:19,580
+<font color="#ffff00">Con sólo sonreír no vas conseguir nada.</font>
+
+440
+00:42:35,780 --> 00:42:37,360
+<font color="#ffff00">Esa persona da miedo.</font>
+
+441
+00:42:38,240 --> 00:42:42,100
+<font color="#ffff00">No, no sé cómo hacer esto
+y estoy desesperada.</font>
+
+442
+00:42:42,980 --> 00:42:44,080
+<font color="#ffff00">¿Aunque seas adulta?</font>
+
+443
+00:42:47,080 --> 00:42:50,320
+<font color="#ffff00">Lamento no haberle preguntado
+a tu padre muchas cosas.</font>
+
+444
+00:43:02,860 --> 00:43:04,260
+<font color="#ffff00">Esto es malo, esto es malo.</font>
+
+445
+00:43:04,320 --> 00:43:05,520
+<font color="#ffff00">Hola.</font>
+
+446
+00:43:05,560 --> 00:43:06,690
+<font color="#ffff00">Esto...</font>
+
+447
+00:43:06,720 --> 00:43:08,440
+<font color="#ffff00">Toma, esto es para tí.</font>
+
+448
+00:43:08,480 --> 00:43:09,650
+<font color="#ffff00">¿Qué es?</font>
+
+449
+00:43:09,680 --> 00:43:10,970
+<font color="#ffff00">Semillas de papa.</font>
+
+450
+00:43:11,000 --> 00:43:13,520
+<font color="#ffff00">¿Son para plantarlas en el campo?</font>
+
+451
+00:43:14,880 --> 00:43:17,450
+<font color="#ffff00">Puedes usarlas para hacer
+muchas otras cosas.</font>
+
+452
+00:43:17,490 --> 00:43:20,020
+<font color="#ffff00">El anciano me lo contó, pero
+no te preocupes.</font>
+
+453
+00:43:20,060 --> 00:43:21,580
+<font color="#ffff00">Así es su personalidad.</font>
+
+454
+00:43:21,620 --> 00:43:23,360
+<font color="#ffff00">No, fue mi culpa.</font>
+
+455
+00:43:26,420 --> 00:43:27,500
+<font color="#ffff00">¡Hola!</font>
+
+456
+00:43:29,140 --> 00:43:30,290
+<font color="#ffff00">Lo siento...</font>
+
+457
+00:43:30,330 --> 00:43:31,440
+<font color="#ffff00">Está bien.</font>
+
+458
+00:43:33,480 --> 00:43:33,920
+<font color="#ffff00">Aquí.</font>
+
+459
+00:43:40,640 --> 00:43:42,200
+<font color="#ffff00">¡Abuelo Nirasaki!</font>
+
+460
+00:43:42,500 --> 00:43:44,560
+<font color="#ffff00">¡Gracias por las semillas de papa!</font>
+
+461
+00:43:44,600 --> 00:43:46,560
+<font color="#ffff00">Ah, ¿planeas desperdiciarlas?</font>
+
+462
+00:43:53,880 --> 00:43:55,620
+<font color="#ffff00">Empieza desde la tierra.</font>
+
+463
+00:44:03,780 --> 00:44:06,120
+<font color="#ffff00">¡No debes cavar de esa forma!</font>
+
+464
+00:44:06,660 --> 00:44:07,860
+<font color="#ffff00">¡Lo siento!</font>
+
+465
+00:44:17,800 --> 00:44:19,700
+<font color="#ffff00">Esto... ¿Y los fertilizantes?</font>
+
+466
+00:44:19,740 --> 00:44:21,600
+<font color="#ffff00">¿Enterraste ahí las hojas secas?</font>
+
+467
+00:44:21,640 --> 00:44:22,370
+<font color="#ffff00">Sí.</font>
+
+468
+00:44:22,400 --> 00:44:23,340
+<font color="#ffff00">Entonces no los necesitas.</font>
+
+469
+00:44:34,120 --> 00:44:36,000
+<font color="#ffff00">Cuando termines, trabaja la
+tierra hasta aquí.</font>
+
+470
+00:44:36,380 --> 00:44:38,290
+<font color="#ffff00">No hace falta tanto.</font>
+
+471
+00:44:38,320 --> 00:44:40,920
+<font color="#ffff00">Sólo necesito comida para mis
+dos hijos y para mí.</font>
+
+472
+00:44:43,660 --> 00:44:44,800
+<font color="#ffff00">¿No me escuchaste?</font>
+
+473
+00:44:48,400 --> 00:44:49,000
+<font color="#ffff00">Sí.</font>
+
+474
+00:45:10,980 --> 00:45:12,180
+<font color="#ffff00">Haz los surcos.</font>
+
+475
+00:45:14,640 --> 00:45:15,320
+<font color="#ffff00">Sí.</font>
+
+476
+00:45:18,240 --> 00:45:19,640
+<font color="#ffff00">Deja más espacio entre ellos.</font>
+
+477
+00:45:20,500 --> 00:45:21,040
+<font color="#ffff00">Sí.</font>
+
+478
+00:45:24,180 --> 00:45:26,120
+<font color="#ffff00">Están muy bajos, súbelos más.</font>
+
+479
+00:45:26,160 --> 00:45:26,820
+<font color="#ffff00">Sí.</font>
+
+480
+00:46:07,580 --> 00:46:11,080
+<font color="#ffff00">En una semana, siémbralas con la
+parte del corte hacia abajo.</font>
+
+481
+00:46:11,120 --> 00:46:13,540
+<font color="#ffff00">No las riegues ni nada, sólo déjalas.</font>
+
+482
+00:46:14,680 --> 00:46:19,020
+<font color="#ffff00">Esto... gracias por enseñarme tanto...</font>
+
+483
+00:46:35,840 --> 00:46:37,360
+<font color="#ffff00">Mamá, ¿estás bien?</font>
+
+484
+00:46:49,280 --> 00:46:50,310
+<font color="#ffff00">Hola.</font>
+
+485
+00:46:50,340 --> 00:46:51,640
+<font color="#ffff00">Ven aquí.</font>
+
+486
+00:46:51,680 --> 00:46:52,210
+<font color="#ffff00">¿Eh?</font>
+
+487
+00:46:52,240 --> 00:46:54,120
+<font color="#ffff00">Está bien, sólo ven aquí.</font>
+
+488
+00:46:54,160 --> 00:46:54,630
+<font color="#ffff00">¿Eh?</font>
+
+489
+00:46:54,660 --> 00:46:56,120
+<font color="#ffff00">Vamos, ven aquí.</font>
+
+490
+00:47:01,020 --> 00:47:02,150
+<font color="#ffff00">Oye, tú.</font>
+
+491
+00:47:02,190 --> 00:47:03,280
+<font color="#ffff00">¿S-Sí?</font>
+
+492
+00:47:04,080 --> 00:47:05,870
+<font color="#ffff00">Estas son manzanilla y col.</font>
+
+493
+00:47:05,900 --> 00:47:08,680
+<font color="#ffff00">Si las plantas juntas, a los insectos
+no les gustará su sabor.</font>
+
+494
+00:47:08,720 --> 00:47:09,510
+<font color="#ffff00">Ah, no.</font>
+
+495
+00:47:09,540 --> 00:47:11,300
+<font color="#ffff00">El apio es mucho mejor con la col.</font>
+
+496
+00:47:11,740 --> 00:47:12,850
+<font color="#ffff00">No, no.</font>
+
+497
+00:47:12,880 --> 00:47:14,240
+<font color="#ffff00">Para los principiantes esto es mejor.</font>
+
+498
+00:47:14,280 --> 00:47:15,330
+<font color="#ffff00">No, no, no.</font>
+
+499
+00:47:15,360 --> 00:47:17,660
+<font color="#ffff00">¿La manzanilla siquiera llena
+el estómago de alguien?</font>
+
+500
+00:47:18,260 --> 00:47:20,860
+<font color="#ffff00">Siémbralo por aquí, no muy profundo.</font>
+
+501
+00:47:20,900 --> 00:47:21,670
+<font color="#ffff00">Estás mal.</font>
+
+502
+00:47:21,700 --> 00:47:24,040
+<font color="#ffff00">Primero tienes que llenar
+el agujero con agua.</font>
+
+503
+00:47:24,080 --> 00:47:24,710
+<font color="#ffff00">¡No, no!</font>
+
+504
+00:47:24,740 --> 00:47:27,140
+<font color="#ffff00">Puedes añadir el agua más tarde,
+tienes que sembrarlo primero.</font>
+
+505
+00:47:27,180 --> 00:47:28,670
+<font color="#ffff00">Mal, mal, mal.</font>
+
+506
+00:47:28,700 --> 00:47:31,170
+<font color="#ffff00">Puedes rociar el fertilizante de así.</font>
+
+507
+00:47:31,200 --> 00:47:33,680
+<font color="#ffff00">Si le pones mucho, los insectos
+se reunirán aquí.</font>
+
+508
+00:47:33,720 --> 00:47:35,030
+<font color="#ffff00">¡No! ¡Dame eso!</font>
+
+509
+00:47:35,060 --> 00:47:36,340
+<font color="#ffff00">¡Tienes que arriesgarte más!</font>
+
+510
+00:47:36,380 --> 00:47:37,550
+<font color="#ffff00">¡Estás mal!</font>
+
+511
+00:47:37,580 --> 00:47:39,390
+<font color="#ffff00">Solamente es necesario agregar un poco.</font>
+
+512
+00:47:39,430 --> 00:47:41,200
+<font color="#ffff00">¡Vas a fallar si sigues sus consejos!</font>
+
+513
+00:47:41,240 --> 00:47:41,700
+<font color="#ffff00">¡Ese es tu consejo!</font>
+
+514
+00:47:41,740 --> 00:47:42,820
+<font color="#ffff00">¿Qué dijiste?</font>
+
+515
+00:47:42,850 --> 00:47:43,900
+<font color="#ffff00">¡¿Qué dices?!</font>
+
+516
+00:47:45,500 --> 00:47:47,380
+<font color="#ffff00">¿Vinagre para pulir madera?</font>
+
+517
+00:47:47,420 --> 00:47:49,230
+<font color="#ffff00">Está hecho con humo de carbón.</font>
+
+518
+00:47:49,260 --> 00:47:51,920
+<font color="#ffff00">Y después, se le añade estiércol avícola.</font>
+
+519
+00:47:51,960 --> 00:47:53,550
+<font color="#ffff00">Gracias por todo.</font>
+
+520
+00:47:53,590 --> 00:47:55,110
+<font color="#ffff00">No, gracias a tí.</font>
+
+521
+00:47:55,140 --> 00:47:57,820
+<font color="#ffff00">Perdón por venir sin avisarte
+y sorprenderte.</font>
+
+522
+00:47:57,860 --> 00:47:58,380
+<font color="#ffff00">No...</font>
+
+523
+00:47:58,820 --> 00:48:01,040
+<font color="#ffff00">Debe haber sido difícil trabajar
+una tierra tan dura.</font>
+
+524
+00:48:01,080 --> 00:48:03,720
+<font color="#ffff00">No sabía nada, así que tuve
+que estudiar todos los días.</font>
+
+525
+00:48:04,240 --> 00:48:06,050
+<font color="#ffff00">Mucha gente de la ciudad se muda aquí,</font>
+
+526
+00:48:06,080 --> 00:48:08,420
+<font color="#ffff00">pero siempre se rinden y regresan
+poco tiempo después.</font>
+
+527
+00:48:08,460 --> 00:48:10,270
+<font color="#ffff00">¿Había otras personas jóvenes como yo?</font>
+
+528
+00:48:10,300 --> 00:48:12,840
+<font color="#ffff00">No, no, eran ancianos que se
+habían retirado.</font>
+
+529
+00:48:12,880 --> 00:48:15,380
+<font color="#ffff00">Era gracioso lo débiles de mente que eran.</font>
+
+530
+00:48:18,360 --> 00:48:20,020
+<font color="#ffff00">Puede que sólo lo esté diciendo, pero...</font>
+
+531
+00:48:20,060 --> 00:48:23,340
+<font color="#ffff00">Vivir en estas tierras no es fácil.</font>
+
+532
+00:48:23,400 --> 00:48:24,960
+<font color="#ffff00">El drenaje es malo.</font>
+
+533
+00:48:25,000 --> 00:48:26,690
+<font color="#ffff00">Nieva mucho.</font>
+
+534
+00:48:26,720 --> 00:48:28,720
+<font color="#ffff00">Tenemos que ayudarnos unos a otros.</font>
+
+535
+00:48:31,320 --> 00:48:34,120
+<font color="#ffff00">Pensábamos que no te gustaba
+socializar con los vecinos.</font>
+
+536
+00:48:34,160 --> 00:48:37,070
+<font color="#ffff00">No hay muchas madres jóvenes por aquí.</font>
+
+537
+00:48:37,100 --> 00:48:38,760
+<font color="#ffff00">Así que es tranquilizador tener
+una más de nosotras aquí.</font>
+
+538
+00:48:38,800 --> 00:48:40,040
+<font color="#ffff00">Pregunta lo que quieras.</font>
+
+539
+00:48:40,080 --> 00:48:41,580
+<font color="#ffff00">Bueno, entonces...</font>
+
+540
+00:48:42,400 --> 00:48:44,980
+<font color="#ffff00">¿¡Eh!? ¿¡Vives de tus ahorros!?</font>
+
+541
+00:48:45,020 --> 00:48:47,340
+<font color="#ffff00">Sí, pero se acabarán pronto.</font>
+
+542
+00:48:47,370 --> 00:48:49,630
+<font color="#ffff00">Es difícil encontrar un trabajo.</font>
+
+543
+00:48:49,660 --> 00:48:53,700
+<font color="#ffff00">Todos dejan a sus hijos en la
+guardería y salen a trabajar.</font>
+
+544
+00:48:56,060 --> 00:48:57,960
+<font color="#ffff00">¿Qué clase de lugar es una "guardería"?</font>
+
+545
+00:48:58,560 --> 00:49:00,600
+<font color="#ffff00">¿Por qué no pueden ir ahí Ame y Yuki?</font>
+
+546
+00:49:00,640 --> 00:49:01,730
+<font color="#ffff00">Eso es porque...</font>
+
+547
+00:49:01,760 --> 00:49:03,360
+<font color="#ffff00">¡Yuki quiere ir a la guardería!</font>
+
+548
+00:49:03,400 --> 00:49:03,950
+<font color="#ffff00">¡No puedes!</font>
+
+549
+00:49:03,980 --> 00:49:04,550
+<font color="#ffff00">¡Quiero ir!</font>
+
+550
+00:49:04,590 --> 00:49:05,120
+<font color="#ffff00">¡Qué no!</font>
+
+551
+00:49:05,320 --> 00:49:10,520
+<font color="#ffff00">¡Quiero ir! ¡Quiero ir! ¡Quiero ir!
+¡Quiero ir! ¡Quiero ir!</font>
+
+552
+00:49:10,940 --> 00:49:11,920
+<font color="#ffff00">¡Quiero ir!</font>
+
+553
+00:49:12,260 --> 00:49:14,050
+<font color="#ffff00">¡Quiero ir a la guardería! ¡Quiero ir!</font>
+
+554
+00:49:14,090 --> 00:49:15,840
+<font color="#ffff00">¡Quiero ir! ¡Quiero ir! ¡Quiero ir!</font>
+
+555
+00:49:15,880 --> 00:49:17,860
+<font color="#ffff00">Yuki, apresúrate a comer.</font>
+
+556
+00:49:18,720 --> 00:49:20,980
+<font color="#ffff00">Sé que es por lo de nuestro secreto.</font>
+
+557
+00:49:21,020 --> 00:49:23,160
+<font color="#ffff00">Pero voy a tener cuidado.</font>
+
+558
+00:49:23,700 --> 00:49:25,430
+<font color="#ffff00">Pero, sabes...</font>
+
+559
+00:49:25,470 --> 00:49:27,160
+<font color="#ffff00">Tendré cuidado.</font>
+
+560
+00:49:36,560 --> 00:49:37,810
+<font color="#ffff00">Y- Yuki...</font>
+
+561
+00:49:37,840 --> 00:49:40,160
+<font color="#ffff00">Hana-chan, ¿tienes un perro?</font>
+
+562
+00:49:40,200 --> 00:49:42,360
+<font color="#ffff00">Ah, eh... bueno...</font>
+
+563
+00:49:43,220 --> 00:49:45,510
+<font color="#ffff00">¿No es un lobo?</font>
+
+564
+00:49:45,540 --> 00:49:48,110
+<font color="#ffff00">¡Oye, cariño! ¡Es un lobo!</font>
+
+565
+00:49:48,140 --> 00:49:50,960
+<font color="#ffff00">¡No seas tonta, ya no hay lobos en Japón!</font>
+
+566
+00:49:51,000 --> 00:49:53,270
+<font color="#ffff00">Debe ser una cruza de pastor.</font>
+
+567
+00:49:53,300 --> 00:49:55,300
+<font color="#ffff00">¿Verdad, Hana-chan? ¿Tengo razón?</font>
+
+568
+00:49:55,340 --> 00:49:56,230
+<font color="#ffff00">¿Tengo razón?</font>
+
+569
+00:49:56,260 --> 00:49:58,070
+<font color="#ffff00">¿Eh? El perro se ha ido.</font>
+
+570
+00:49:58,100 --> 00:50:00,020
+<font color="#ffff00">Abuela Nirasaki, buenas tardes.</font>
+
+571
+00:50:00,060 --> 00:50:01,450
+<font color="#ffff00">Oh, Yuki-chan.</font>
+
+572
+00:50:01,480 --> 00:50:03,660
+<font color="#ffff00">¿No estás muy sociable hoy?</font>
+
+573
+00:50:03,700 --> 00:50:05,840
+<font color="#ffff00">Tu ropa es como la de tu perro.</font>
+
+574
+00:50:05,880 --> 00:50:07,960
+<font color="#ffff00">¿No es linda?</font>
+
+575
+00:50:08,900 --> 00:50:11,400
+<font color="#ffff00">Y- Yuki...</font>
+
+576
+00:50:16,000 --> 00:50:17,320
+<font color="#ffff00">¿Qué te pasa, Hana-chan?</font>
+
+577
+00:50:39,300 --> 00:50:40,560
+<font color="#ffff00">¡Hola!</font>
+
+578
+00:50:42,440 --> 00:50:43,600
+<font color="#ffff00">¡Hola!</font>
+
+579
+00:50:50,540 --> 00:50:52,540
+<font color="#ffff00">Me pregunto dónde estará
+el abuelo Nirasaki...</font>
+
+580
+00:50:53,280 --> 00:50:55,010
+<font color="#ffff00">Mmm... Crecieron muy bien.</font>
+
+581
+00:50:55,050 --> 00:50:56,710
+<font color="#ffff00">Todo fue gracias a ustedes.</font>
+
+582
+00:50:56,740 --> 00:50:59,680
+<font color="#ffff00">Las raíces de las nuestras estaban
+dañadas, así que serán útiles.</font>
+
+583
+00:50:59,720 --> 00:51:01,140
+<font color="#ffff00">¿Qué quiere decir con "dañadas"?</font>
+
+584
+00:51:01,180 --> 00:51:02,370
+<font color="#ffff00">Un jabalí.</font>
+
+585
+00:51:02,400 --> 00:51:03,660
+<font color="#ffff00">Vamos, toma esto.</font>
+
+586
+00:51:03,700 --> 00:51:04,580
+<font color="#ffff00">¿Todo esto?</font>
+
+587
+00:51:05,380 --> 00:51:06,610
+<font color="#ffff00">Los jabalíes...</font>
+
+588
+00:51:06,640 --> 00:51:09,050
+<font color="#ffff00">Oh, las aceptaré con mucho gusto.</font>
+
+589
+00:51:09,080 --> 00:51:12,570
+<font color="#ffff00">Esta mañana, sin hacer ruido,
+desenterraron todo.</font>
+
+590
+00:51:12,600 --> 00:51:15,840
+<font color="#ffff00">Este año fueron lejos y llegaron
+al campo de arroz de Sakei.</font>
+
+591
+00:51:15,880 --> 00:51:18,040
+<font color="#ffff00">Toma, te lo doy a cambio. Está pesado.</font>
+
+592
+00:51:18,400 --> 00:51:21,740
+<font color="#ffff00">El campo de Hana-chan fue el único
+que no dañaron los animales.</font>
+
+593
+00:51:21,780 --> 00:51:24,340
+<font color="#ffff00">En esta montaña, eso es un milagro.</font>
+
+594
+00:51:24,380 --> 00:51:25,980
+<font color="#ffff00">¿Tienes algún truco para eso?</font>
+
+595
+00:51:26,020 --> 00:51:27,490
+<font color="#ffff00">No, yo no hice nada.</font>
+
+596
+00:51:27,520 --> 00:51:29,280
+<font color="#ffff00">A todos nos gustaría escucharlo.</font>
+
+597
+00:51:29,320 --> 00:51:31,040
+<font color="#ffff00">¿Qué significa "truco"?</font>
+
+598
+00:51:31,080 --> 00:51:32,090
+<font color="#ffff00">¡Pipí!</font>
+
+599
+00:51:32,120 --> 00:51:34,700
+<font color="#ffff00">¡Yuki-chan está muy animada!</font>
+
+600
+00:51:36,080 --> 00:51:37,160
+<font color="#ffff00">No será que...</font>
+
+601
+00:51:37,200 --> 00:51:37,900
+<font color="#ffff00">¿Qué?</font>
+
+602
+00:51:38,580 --> 00:51:40,980
+<font color="#ffff00">No... no es nada.</font>
+
+603
+00:51:42,200 --> 00:51:43,570
+<font color="#ffff00">Muchas gracias.</font>
+
+604
+00:51:43,600 --> 00:51:45,570
+<font color="#ffff00">Está bien, es a cambio de las papas.</font>
+
+605
+00:51:45,600 --> 00:51:47,160
+<font color="#ffff00">Ha pasado mucho tiempo desde
+que tuvimos huevos.</font>
+
+606
+00:51:47,200 --> 00:51:48,370
+<font color="#ffff00">Es bueno escuchar eso.</font>
+
+607
+00:51:48,400 --> 00:51:50,280
+<font color="#ffff00">Avísame cuando se los terminen.</font>
+
+608
+00:51:50,720 --> 00:51:51,320
+<font color="#ffff00">Vaya...</font>
+
+609
+00:51:51,960 --> 00:51:53,860
+<font color="#ffff00">¡Eso es muy lindo!</font>
+
+610
+00:51:53,900 --> 00:51:54,340
+<font color="#ffff00">¿Eh?</font>
+
+611
+00:51:55,420 --> 00:51:55,820
+<font color="#ffff00">¿Eh?</font>
+
+612
+00:51:57,580 --> 00:51:59,710
+<font color="#ffff00">Es muy grande, no puedo aceptarlo.</font>
+
+613
+00:51:59,740 --> 00:52:01,710
+<font color="#ffff00">Está bien, está bien, no te preocupes.</font>
+
+614
+00:52:01,740 --> 00:52:03,600
+<font color="#ffff00">Es de un tipo que lo tenía abandonado
+en su cobertizo.</font>
+
+615
+00:52:03,640 --> 00:52:04,880
+<font color="#ffff00">Sí, pero...</font>
+
+616
+00:52:04,910 --> 00:52:06,090
+<font color="#ffff00">Acéptalo.</font>
+
+617
+00:52:06,120 --> 00:52:08,440
+<font color="#ffff00">Además, si lo regresamos, el viejo
+se enojará con nosotros.</font>
+
+618
+00:52:08,480 --> 00:52:09,970
+<font color="#ffff00">¿"El viejo"?</font>
+
+619
+00:52:10,000 --> 00:52:12,640
+<font color="#ffff00">"Hana-chan esto", "Hana-chan lo otro",
+se está haciendo viejo.</font>
+
+620
+00:52:12,680 --> 00:52:13,730
+<font color="#ffff00">Está enamorado de tí.</font>
+
+621
+00:52:13,760 --> 00:52:15,510
+<font color="#ffff00">Tiene más de noventa años...</font>
+
+622
+00:52:15,540 --> 00:52:18,940
+<font color="#ffff00">Pero cuando cuida de alguien,
+termina involucrándonos a todos.</font>
+
+623
+00:52:18,980 --> 00:52:19,470
+<font color="#ffff00">¡Idiota!</font>
+
+624
+00:52:19,500 --> 00:52:21,020
+<font color="#ffff00">¡No deberías decir eso!</font>
+
+625
+00:52:22,620 --> 00:52:24,180
+<font color="#ffff00">Así que era eso...</font>
+
+626
+00:52:39,040 --> 00:52:43,140
+<font color="#ffff00">Por fin entendí por qué el campo
+tenía que ser más grande.</font>
+
+627
+00:52:48,860 --> 00:52:49,940
+<font color="#ffff00">No me gusta.</font>
+
+628
+00:52:50,460 --> 00:52:50,880
+<font color="#ffff00">¿Eh?</font>
+
+629
+00:52:51,520 --> 00:52:53,800
+<font color="#ffff00">¿Por qué siempre sonríes así?</font>
+
+630
+00:52:58,960 --> 00:52:59,740
+<font color="#ffff00">¡No te rías!</font>
+
+631
+00:53:03,720 --> 00:53:05,720
+<font color="#ffff00">¿Qué es tan divertido?</font>
+
+632
+00:53:15,600 --> 00:53:19,340
+<font color="#ffff00">Si bien me mudé aquí escapando
+de las miradas de la gente...</font>
+
+633
+00:53:20,760 --> 00:53:23,780
+<font color="#ffff00">terminé recibiendo un montón de
+ayuda de todos los del pueblo.</font>
+
+634
+00:53:26,400 --> 00:53:28,260
+<font color="#ffff00">Al principio fue difícil, pero...</font>
+
+635
+00:53:29,340 --> 00:53:31,440
+<font color="#ffff00">de alguna manera, parece que
+puedo seguir adelante.</font>
+
+636
+00:53:41,260 --> 00:53:43,000
+<font color="#ffff00">¡Increíble!</font>
+
+637
+00:56:47,240 --> 00:56:50,880
+<font color="#ffff00">¡M-Ma... Mamá!</font>
+
+638
+00:56:50,920 --> 00:56:51,610
+<font color="#ffff00">¡Ame!</font>
+
+639
+00:56:51,640 --> 00:56:52,940
+<font color="#ffff00">¡Mamá, Ame está...!</font>
+
+640
+00:56:55,040 --> 00:56:57,160
+<font color="#ffff00">¡M-Mamá!</font>
+
+641
+00:56:59,140 --> 00:57:00,040
+<font color="#ffff00">¡Ame!</font>
+
+642
+00:57:01,960 --> 00:57:03,740
+<font color="#ffff00">¡Ame! ¡Ame!</font>
+
+643
+00:57:06,140 --> 00:57:07,140
+<font color="#ffff00">¡Ame!</font>
+
+644
+00:57:08,000 --> 00:57:09,600
+<font color="#ffff00">Ma... má...</font>
+
+645
+00:57:10,060 --> 00:57:11,060
+<font color="#ffff00">¡Ame!</font>
+
+646
+00:57:11,740 --> 00:57:13,780
+<font color="#ffff00">Mamá...</font>
+
+647
+00:57:28,280 --> 00:57:29,140
+<font color="#ffff00">Ame...</font>
+
+648
+00:57:29,180 --> 00:57:30,000
+<font color="#ffff00">¡Ame!</font>
+
+649
+00:57:32,080 --> 00:57:32,940
+<font color="#ffff00">¡Ame!</font>
+
+650
+00:57:33,760 --> 00:57:35,260
+<font color="#ffff00">¡Abre los ojos, Ame!</font>
+
+651
+00:57:35,290 --> 00:57:37,040
+<font color="#ffff00">¡Abre los ojos!</font>
+
+652
+00:57:37,070 --> 00:57:38,530
+<font color="#ffff00">¡Ame!</font>
+
+653
+00:57:38,560 --> 00:57:40,160
+<font color="#ffff00">¡Ame! ¡Ame!</font>
+
+654
+00:57:41,300 --> 00:57:43,160
+<font color="#ffff00">Abre los ojos...</font>
+
+655
+00:57:44,680 --> 00:57:45,660
+<font color="#ffff00">Ame...</font>
+
+656
+00:57:47,860 --> 00:57:50,100
+<font color="#ffff00">Mamá... Me duele...</font>
+
+657
+00:57:50,130 --> 00:57:51,400
+<font color="#ffff00">¡Ame!</font>
+
+658
+00:57:52,280 --> 00:57:53,440
+<font color="#ffff00">Yo...</font>
+
+659
+00:57:53,480 --> 00:57:55,990
+<font color="#ffff00">Encontré un martín pescador.</font>
+
+660
+00:57:56,020 --> 00:57:58,940
+<font color="#ffff00">Era un martín pescador muy hermoso.</font>
+
+661
+00:57:58,980 --> 00:58:02,490
+<font color="#ffff00">Incluso me sentí capaz de cazarlo yo solo.</font>
+
+662
+00:58:03,640 --> 00:58:04,990
+<font color="#ffff00">¿Y sabes qué?</font>
+
+663
+00:58:05,020 --> 00:58:07,540
+<font color="#ffff00">Era completamente diferente de antes.</font>
+
+664
+00:58:07,570 --> 00:58:09,460
+<font color="#ffff00">No tenía miedo.</font>
+
+665
+00:58:09,500 --> 00:58:12,620
+<font color="#ffff00">Por un momento, sentí como si pudiera
+hacer cualquier cosa.</font>
+
+666
+00:58:12,660 --> 00:58:13,760
+<font color="#ffff00">Y entonces...</font>
+
+667
+00:58:16,940 --> 00:58:18,140
+<font color="#ffff00">¿Por qué estás llorando?</font>
+
+668
+00:58:19,980 --> 00:58:22,040
+<font color="#ffff00">¿Qué estamos haciendo aquí?</font>
+
+669
+00:58:27,600 --> 00:58:32,100
+<font color="#ffff00">Más tarde, mi madre dijo que nunca había tenido tanto miedo en su vida.</font>
+
+670
+00:58:33,880 --> 00:58:35,820
+<font color="#ffff00">Después de eso, Ame...</font>
+
+671
+00:58:36,140 --> 00:58:38,580
+<font color="#ffff00">se convirtió en una persona
+completamente diferente.</font>
+
+672
+00:58:42,470 --> 00:58:42,980
+<font color="#ffff00">Yuki 6 años</font>
+
+673
+00:58:43,010 --> 00:58:43,480
+<font color="#ffff00">Ame 5 años</font>
+
+674
+00:58:43,520 --> 00:58:46,670
+<font color="#ffff00">Cuando terminó el invierno
+y llegó la primavera...</font>
+
+675
+00:58:46,700 --> 00:58:50,840
+<font color="#ffff00">quería ir a la escuela como
+los demás, era inevitable.</font>
+
+676
+00:58:52,040 --> 00:58:53,760
+<font color="#ffff00">Así que, para convencer a mi madre,</font>
+
+677
+00:58:53,800 --> 00:58:56,180
+<font color="#ffff00">empecé a obedecer todas
+sus órdenes al máximo.</font>
+
+678
+00:58:56,460 --> 00:59:00,180
+<font color="#ffff00">Terminó por funcionar
+y al final pude ir.</font>
+
+679
+00:59:00,210 --> 00:59:00,920
+<font color="#ffff00">Sin embargo...</font>
+
+680
+00:59:01,440 --> 00:59:02,680
+<font color="#ffff00">Pase lo que pase...</font>
+
+681
+00:59:02,720 --> 00:59:04,400
+<font color="#ffff00">¡No me convertiré en lobo!</font>
+
+682
+00:59:04,430 --> 00:59:05,740
+<font color="#ffff00">Eso ya lo sé.</font>
+
+683
+00:59:05,770 --> 00:59:07,000
+<font color="#ffff00">Es una promesa.</font>
+
+684
+00:59:07,040 --> 00:59:08,160
+<font color="#ffff00">¡Puedo controlarlo!</font>
+
+685
+00:59:08,200 --> 00:59:10,760
+<font color="#ffff00">Entonces di: "Tres regalos, tres pulpos".</font>
+
+686
+00:59:10,790 --> 00:59:11,600
+<font color="#ffff00">¿Qué es eso?</font>
+
+687
+00:59:12,420 --> 00:59:14,200
+<font color="#ffff00">Un amuleto de buena suerte para
+que no te conviertas en lobo.</font>
+
+688
+00:59:14,230 --> 00:59:15,060
+<font color="#ffff00">¿Amuleto de buena suerte?</font>
+
+689
+00:59:15,680 --> 00:59:19,580
+<font color="#ffff00">Di: "Tres regalos, tres pulpos".</font>
+
+690
+00:59:20,080 --> 00:59:21,020
+<font color="#ffff00">Tres...</font>
+
+691
+00:59:21,060 --> 00:59:23,340
+<font color="#ffff00">Regalos, tres pulpos.</font>
+
+692
+00:59:24,200 --> 00:59:27,440
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+693
+00:59:32,340 --> 00:59:34,680
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+694
+00:59:37,100 --> 00:59:40,060
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+695
+00:59:40,090 --> 00:59:41,180
+<font color="#ffff00">¡Rápido!</font>
+
+696
+00:59:41,600 --> 00:59:44,760
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+697
+00:59:45,180 --> 00:59:48,250
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+698
+00:59:49,040 --> 00:59:52,200
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+699
+00:59:59,540 --> 01:00:03,900
+<font color="#ffff00">Fue la primera vez en mi vida que
+estuve rodeada de tanta gente.</font>
+
+700
+01:00:05,340 --> 01:00:07,080
+<font color="#ffff00">A pesar de que tenía tantas ganas de ir,</font>
+
+701
+01:00:07,740 --> 01:00:12,920
+<font color="#ffff00">cuando llegué ahí, no estaba
+segura de poder hacerlo.</font>
+
+702
+01:00:14,840 --> 01:00:16,700
+<font color="#ffff00">Pero eso fue sólo el principio.</font>
+
+703
+01:00:20,340 --> 01:00:21,880
+<font color="#ffff00">Papá, ya me voy.</font>
+
+704
+01:00:21,910 --> 01:00:23,220
+<font color="#ffff00">¡Ya me voy!</font>
+
+705
+01:00:24,160 --> 01:00:26,160
+<font color="#ffff00">Que te vaya bien, ten cuidado.</font>
+
+706
+01:00:26,190 --> 01:00:27,060
+<font color="#ffff00">¡Sí!</font>
+
+707
+01:00:32,500 --> 01:00:33,760
+<font color="#ffff00">¡Shino-chan, buenos días!</font>
+
+708
+01:00:33,790 --> 01:00:35,090
+<font color="#ffff00">Buenos días, Yuki-chan.</font>
+
+709
+01:00:35,120 --> 01:00:36,380
+<font color="#ffff00">Te guardé el asiento.</font>
+
+710
+01:00:36,410 --> 01:00:37,740
+<font color="#ffff00">Gracias.</font>
+
+711
+01:00:37,770 --> 01:00:39,060
+<font color="#ffff00">1º Grado</font>
+
+712
+01:00:39,540 --> 01:00:41,500
+<font color="#ffff00">Bueno, ¿quién sabe la respuesta a esto?</font>
+
+713
+01:00:41,530 --> 01:00:43,060
+<font color="#ffff00">¡Yo! ¡Yo! ¡Yo! ¡Yo! ¡Yo!</font>
+
+714
+01:00:46,280 --> 01:00:48,420
+<font color="#ffff00">Oye, ¡no debes correr!</font>
+
+715
+01:00:48,450 --> 01:00:49,700
+<font color="#ffff00">¡Yuki-chan!</font>
+
+716
+01:00:53,040 --> 01:00:54,960
+<font color="#ffff00">¡Yuki-chan, eres la mejor!</font>
+
+717
+01:00:56,660 --> 01:00:57,790
+<font color="#ffff00">¡Eres muy rápida!</font>
+
+718
+01:00:57,820 --> 01:00:58,880
+<font color="#ffff00">Increíble, Yuki-chan.</font>
+
+719
+01:00:58,920 --> 01:01:00,580
+<font color="#ffff00">¡Sólo tú puedes hacer eso!</font>
+
+720
+01:01:01,520 --> 01:01:02,690
+<font color="#ffff00">Muchas gracias.</font>
+
+721
+01:01:02,720 --> 01:01:03,820
+<font color="#ffff00">Buena suerte.</font>
+
+722
+01:01:03,860 --> 01:01:06,780
+<font color="#ffff00">Ofertas de trabajo
+a tiempo parcial</font>
+
+723
+01:01:07,960 --> 01:01:08,660
+<font color="#ffff00">Eso es...</font>
+
+724
+01:01:10,360 --> 01:01:11,600
+<font color="#ffff00">El Parque Natural Niikawa de...</font>
+
+725
+01:01:14,340 --> 01:01:16,440
+<font color="#ffff00">Historia Natural del pueblo</font>
+
+726
+01:01:22,360 --> 01:01:23,620
+<font color="#ffff00">Perdón por hacerla esperar.</font>
+
+727
+01:01:23,650 --> 01:01:24,600
+<font color="#ffff00">¿Nos vamos?</font>
+
+728
+01:01:24,980 --> 01:01:27,320
+<font color="#ffff00">Soy el guardabosques, Tendo.</font>
+
+729
+01:01:27,360 --> 01:01:30,060
+<font color="#ffff00">Bienvenidos al observatorio de la
+naturaleza del bosque Niikawa.</font>
+
+730
+01:01:30,090 --> 01:01:32,580
+<font color="#ffff00">Gracias por recibirnos aquí.</font>
+
+731
+01:01:33,420 --> 01:01:37,400
+<font color="#ffff00">El trabajo de un guardabosques
+no es sólo proteger el bosque,</font>
+
+732
+01:01:37,440 --> 01:01:41,720
+<font color="#ffff00">estudian el medioambiente, el terreno
+y cuidan la vida silvestre.</font>
+
+733
+01:01:41,750 --> 01:01:46,000
+<font color="#ffff00">Estos tres pilares les pedimos a
+los voluntarios mientras están aquí.</font>
+
+734
+01:01:46,030 --> 01:01:48,260
+<font color="#ffff00">La variedad de actividades pueden
+diferir mucho o cruzarse.</font>
+
+735
+01:01:48,290 --> 01:01:52,340
+<font color="#ffff00">Un especialista debe tener conocimiento de todas estas áreas.</font>
+
+736
+01:01:52,380 --> 01:01:57,820
+<font color="#ffff00">Aceptamos solicitudes de asistentes
+para los guardabosques más ocupados.</font>
+
+737
+01:01:57,850 --> 01:01:59,900
+<font color="#ffff00">Así son las cosas.</font>
+
+738
+01:02:00,160 --> 01:02:02,880
+<font color="#ffff00">El salario es muy bajo, sin embargo...</font>
+
+739
+01:02:02,920 --> 01:02:06,020
+<font color="#ffff00">En el futuro, podría aspirar a ser un guardabosques.</font>
+
+740
+01:02:06,060 --> 01:02:10,320
+<font color="#ffff00">El estudio requerido y los gastos de
+capacitación son los inconvenientes.</font>
+
+741
+01:02:10,800 --> 01:02:14,220
+<font color="#ffff00">El salario de un trabajo de medio tiempo
+para estudiantes, sería lo mejor para tí.</font>
+
+742
+01:02:14,250 --> 01:02:15,260
+<font color="#ffff00">Aún así...</font>
+
+743
+01:02:16,500 --> 01:02:17,240
+<font color="#ffff00">¿Quieres el trabajo?</font>
+
+744
+01:02:19,520 --> 01:02:20,160
+<font color="#ffff00">Esto...</font>
+
+745
+01:02:21,160 --> 01:02:23,220
+<font color="#ffff00">Escuché que tenían un lobo...</font>
+
+746
+01:02:27,240 --> 01:02:28,900
+<font color="#ffff00">Es un lobo gris.</font>
+
+747
+01:02:29,380 --> 01:02:30,800
+<font color="#ffff00">Es muy tranquilo.</font>
+
+748
+01:02:30,830 --> 01:02:32,220
+<font color="#ffff00">Es debido a su edad.</font>
+
+749
+01:02:33,680 --> 01:02:34,820
+<font color="#ffff00">Presidente, ¿podría...?</font>
+
+750
+01:02:35,700 --> 01:02:36,800
+<font color="#ffff00">Disculpe un segundo.</font>
+
+751
+01:02:45,480 --> 01:02:46,580
+<font color="#ffff00">Mucho gusto en conocerte.</font>
+
+752
+01:02:46,620 --> 01:02:48,780
+<font color="#ffff00">Vine porque tengo algo que preguntarte.</font>
+
+753
+01:02:49,260 --> 01:02:50,940
+<font color="#ffff00">Este niño es hijo de un lobo.</font>
+
+754
+01:02:50,970 --> 01:02:53,020
+<font color="#ffff00">Su padre lobo murió.</font>
+
+755
+01:02:53,050 --> 01:02:54,640
+<font color="#ffff00">Yo soy su madre.</font>
+
+756
+01:02:54,680 --> 01:02:56,700
+<font color="#ffff00">Pero no sé cómo criar a un niño lobo.</font>
+
+757
+01:02:57,480 --> 01:03:00,500
+<font color="#ffff00">¿Cómo te convertiste en un lobo adulto?</font>
+
+758
+01:03:03,620 --> 01:03:07,280
+<font color="#ffff00">¿Podrías decirme cómo fuiste
+criado en el bosque?</font>
+
+759
+01:03:20,100 --> 01:03:21,420
+<font color="#ffff00">Ah, lo siento.</font>
+
+760
+01:03:23,440 --> 01:03:27,120
+<font color="#ffff00">Una persona rica consiguió un
+permiso para criarlo.</font>
+
+761
+01:03:27,160 --> 01:03:30,560
+<font color="#ffff00">Pero cuando murió, no hubo nadie que
+lo cuidara y lo trajeron.</font>
+
+762
+01:03:30,590 --> 01:03:33,820
+<font color="#ffff00">Aunque originalmente nació en
+un zoológico de Moscú.</font>
+
+763
+01:03:33,850 --> 01:03:35,780
+<font color="#ffff00">¿No es un animal salvaje?</font>
+
+764
+01:03:35,820 --> 01:03:38,920
+<font color="#ffff00">Es raro ver lobos salvajes en zoológicos.</font>
+
+765
+01:03:38,950 --> 01:03:42,020
+<font color="#ffff00">Si alguno nace en cautiverio,
+lo adoptamos.</font>
+
+766
+01:03:42,840 --> 01:03:47,280
+<font color="#ffff00">Además, nos hacemos cargo de
+aves silvestres y mapaches heridos.</font>
+
+767
+01:03:47,520 --> 01:03:49,660
+<font color="#ffff00">Y después, los curamos.</font>
+
+768
+01:03:52,700 --> 01:03:54,820
+<font color="#ffff00">A partir de ahora, voy a tener que
+viajar hasta allá.</font>
+
+769
+01:03:54,850 --> 01:03:57,120
+<font color="#ffff00">Ame, ¿estarás bien yendo conmigo?</font>
+
+770
+01:03:59,160 --> 01:04:01,740
+<font color="#ffff00">Mientras esté trabajando,
+te enseñaré todo sobre...</font>
+
+771
+01:04:02,440 --> 01:04:04,900
+<font color="#ffff00">la montaña y la naturaleza.</font>
+
+772
+01:04:06,400 --> 01:04:08,400
+<font color="#ffff00">Es la primera vez que veo uno de verdad.</font>
+
+773
+01:04:08,430 --> 01:04:09,260
+<font color="#ffff00">¿Un lobo?</font>
+
+774
+01:04:10,200 --> 01:04:12,020
+<font color="#ffff00">¿Así era mi papá?</font>
+
+775
+01:04:12,050 --> 01:04:13,500
+<font color="#ffff00">No, para nada.</font>
+
+776
+01:04:14,180 --> 01:04:14,920
+<font color="#ffff00">Me alegro.</font>
+
+777
+01:04:14,950 --> 01:04:15,660
+<font color="#ffff00">¿Por qué?</font>
+
+778
+01:04:16,620 --> 01:04:19,740
+<font color="#ffff00">Porque parecía muy solitario.</font>
+
+779
+01:04:22,520 --> 01:04:25,200
+<font color="#ffff00">Quisiera ver a mi papá.</font>
+
+780
+01:04:27,860 --> 01:04:31,100
+<font color="#ffff00">A tu mamá también le gustaría verlo.</font>
+
+781
+01:04:32,200 --> 01:04:34,500
+<font color="#ffff00">Y después de que mi madre
+encontrara un trabajo,</font>
+
+782
+01:04:34,700 --> 01:04:37,000
+<font color="#ffff00">recibí un gran impacto...</font>
+
+783
+01:04:37,840 --> 01:04:39,200
+<font color="#ffff00">Fumiko-chan, es muy grande.</font>
+
+784
+01:04:39,230 --> 01:04:40,560
+<font color="#ffff00">El tuyo es mejor, Keno-chan.</font>
+
+785
+01:04:40,980 --> 01:04:42,780
+<font color="#ffff00">Encontré un trébol de cuatro hojas.</font>
+
+786
+01:04:42,810 --> 01:04:43,840
+<font color="#ffff00">¡Yo también!</font>
+
+787
+01:04:43,880 --> 01:04:44,880
+<font color="#ffff00">¡Yuki-chan!</font>
+
+788
+01:04:45,240 --> 01:04:46,760
+<font color="#ffff00">¿Encontraste algo?</font>
+
+789
+01:04:46,790 --> 01:04:47,590
+<font color="#ffff00">Sí.</font>
+
+790
+01:04:47,620 --> 01:04:48,380
+<font color="#ffff00">¡Miren!</font>
+
+791
+01:04:50,460 --> 01:04:54,260
+<font color="#ffff00">Por diversión, atrapé una serpiente
+y me la enrosqué.</font>
+
+792
+01:04:54,290 --> 01:04:56,540
+<font color="#ffff00">Pero no había chicas como
+yo en la escuela.</font>
+
+793
+01:04:56,570 --> 01:04:58,780
+<font color="#ffff00">¡Miren, estas son las joyas de mi mamá!</font>
+
+794
+01:04:58,810 --> 01:05:00,080
+<font color="#ffff00">¡Qué bonitas!</font>
+
+795
+01:05:00,120 --> 01:05:02,840
+<font color="#ffff00">Esta se la puso en su último cumpleaños.</font>
+
+796
+01:05:02,870 --> 01:05:04,640
+<font color="#ffff00">¡Qué bien!</font>
+
+797
+01:05:04,680 --> 01:05:06,720
+<font color="#ffff00">¡Yuki-chan, muéstranos tu
+cofre del tesoro!</font>
+
+798
+01:05:06,750 --> 01:05:07,400
+<font color="#ffff00">¡Sí!</font>
+
+799
+01:05:07,440 --> 01:05:08,940
+<font color="#ffff00">¿Qué hay dentro?</font>
+
+800
+01:05:08,970 --> 01:05:09,800
+<font color="#ffff00">¡Miren!</font>
+
+801
+01:05:12,180 --> 01:05:13,700
+<font color="#ffff00">No había otras chicas...</font>
+
+802
+01:05:13,740 --> 01:05:19,340
+<font color="#ffff00">que guardaran huesos de animales
+y pieles de reptiles disecados.</font>
+
+803
+01:05:20,300 --> 01:05:24,080
+<font color="#ffff00">"Las otras chicas no hacen estas cosas",
+me di cuenta de ello.</font>
+
+804
+01:05:24,110 --> 01:05:26,280
+<font color="#ffff00">Estaba tan avergonzada que
+me dio ansiedad.</font>
+
+805
+01:05:28,440 --> 01:05:30,340
+<font color="#ffff00">Tomé una decisión.</font>
+
+806
+01:05:30,520 --> 01:05:34,490
+<font color="#ffff00">Actuaría lo más graciosa
+y femenina que pudiera.</font>
+
+807
+01:05:39,000 --> 01:05:39,980
+<font color="#ffff00">¡No te rías!</font>
+
+808
+01:05:40,020 --> 01:05:41,840
+<font color="#ffff00">¡Tengo problemas muy serios!</font>
+
+809
+01:05:41,880 --> 01:05:44,720
+<font color="#ffff00">Debes hacer lo que consideres mejor, Yuki.</font>
+
+810
+01:05:44,750 --> 01:05:47,560
+<font color="#ffff00">No quiero que los demás piensen
+que soy rara.</font>
+
+811
+01:05:47,590 --> 01:05:49,400
+<font color="#ffff00">Tendré que ayudarte.</font>
+
+812
+01:05:56,080 --> 01:05:59,980
+<font color="#ffff00">Recuerdo que estaba muy contenta,
+porque mi madre...</font>
+
+813
+01:06:00,010 --> 01:06:02,160
+<font color="#ffff00">empezó a coser un vestido nuevo para mí.</font>
+
+814
+01:06:03,460 --> 01:06:06,080
+<font color="#ffff00">Gracias a eso, dejé de sentirme
+incómoda en clase.</font>
+
+815
+01:06:06,110 --> 01:06:08,760
+<font color="#ffff00">Empecé a llevarme mucho mejor
+con mis amigos.</font>
+
+816
+01:06:08,790 --> 01:06:10,300
+<font color="#ffff00">¡Buenos días!</font>
+
+817
+01:06:10,340 --> 01:06:12,540
+<font color="#ffff00">¡Tu ropa es muy linda, Yuki-chan!</font>
+
+818
+01:06:12,570 --> 01:06:13,720
+<font color="#ffff00">¡Es muy hermosa!</font>
+
+819
+01:06:13,760 --> 01:06:17,300
+<font color="#ffff00">Creo que ese vestido fue el que me salvó.</font>
+
+820
+01:06:18,120 --> 01:06:21,740
+<font color="#ffff00">Al año siguiente, fue complicado
+llevar a Ame a la escuela.</font>
+
+821
+01:06:22,160 --> 01:06:22,680
+<font color="#ffff00">¿Entendiste?</font>
+
+822
+01:06:22,720 --> 01:06:25,540
+<font color="#ffff00">Es: "Tres regalos, tres pulpos".</font>
+
+823
+01:06:27,880 --> 01:06:29,220
+<font color="#ffff00">¡La escuela está por aquí!</font>
+
+824
+01:07:44,860 --> 01:07:46,060
+<font color="#ffff00">¡Buenos días!</font>
+
+825
+01:07:46,100 --> 01:07:48,400
+<font color="#ffff00">Ame-kun, ¿hoy no hubo clases?</font>
+
+826
+01:07:48,430 --> 01:07:49,260
+<font color="#ffff00">No.</font>
+
+827
+01:07:49,300 --> 01:07:50,160
+<font color="#ffff00">¿Faltaste a la escuela?</font>
+
+828
+01:07:50,190 --> 01:07:50,600
+<font color="#ffff00">Sí.</font>
+
+829
+01:07:52,880 --> 01:07:54,480
+<font color="#ffff00">Puedes venir siempre que quieras.</font>
+
+830
+01:07:54,510 --> 01:07:56,220
+<font color="#ffff00">Perdón por las molestias.</font>
+
+831
+01:07:57,820 --> 01:07:59,500
+<font color="#ffff00">Sí, este es el centro de investigación.</font>
+
+832
+01:07:59,540 --> 01:08:02,040
+<font color="#ffff00">Aquí pueden ver a una rana
+de montaña con cola.</font>
+
+833
+01:08:03,500 --> 01:08:05,640
+<font color="#ffff00">¡Hana-chan! ¿Podrías ayudarme?</font>
+
+834
+01:08:05,670 --> 01:08:06,280
+<font color="#ffff00">¡Sí!</font>
+
+835
+01:08:20,480 --> 01:08:21,960
+<font color="#ffff00">¡Niños, presten atención!</font>
+
+836
+01:08:22,000 --> 01:08:23,860
+<font color="#ffff00">Voy a presentarles al nuevo
+estudiante de intercambio.</font>
+
+837
+01:08:23,890 --> 01:08:25,440
+<font color="#ffff00">Su nombre es Fujii Souhei-kun.</font>
+
+838
+01:08:26,000 --> 01:08:26,840
+<font color="#ffff00">Bueno, preséntate.</font>
+
+839
+01:08:27,620 --> 01:08:29,720
+<font color="#ffff00">Soy Fujii, mucho gusto en conocerlos.</font>
+
+840
+01:08:29,750 --> 01:08:31,300
+<font color="#ffff00">¡Mucho gusto en conocerte!</font>
+
+841
+01:08:34,480 --> 01:08:36,880
+<font color="#ffff00">Oye, ¿tienes un perro de mascota?</font>
+
+842
+01:08:36,910 --> 01:08:38,600
+<font color="#ffff00">¿Eh? ¿Por qué?</font>
+
+843
+01:08:38,860 --> 01:08:41,060
+<font color="#ffff00">Porque hueles a animal.</font>
+
+844
+01:08:43,500 --> 01:08:44,340
+<font color="#ffff00">No tengo ninguno.</font>
+
+845
+01:08:44,380 --> 01:08:46,540
+<font color="#ffff00">¿De verdad? Qué raro...</font>
+
+846
+01:08:46,580 --> 01:08:48,520
+<font color="#ffff00">Estaba seguro de que tenías uno.</font>
+
+847
+01:08:49,360 --> 01:08:50,540
+<font color="#ffff00">¿Qué? ¿Qué?</font>
+
+848
+01:08:50,580 --> 01:08:52,700
+<font color="#ffff00">¿Eh? Nada, es sólo que huelo algo...</font>
+
+849
+01:08:52,730 --> 01:08:54,360
+<font color="#ffff00">¿Huele? ¿A qué?</font>
+
+850
+01:08:54,400 --> 01:08:56,440
+<font color="#ffff00">Tal vez solo sea mi imaginación.</font>
+
+851
+01:09:08,640 --> 01:09:10,180
+<font color="#ffff00">¿Cuál será...?</font>
+
+852
+01:09:10,210 --> 01:09:11,930
+<font color="#ffff00">¡Bien! ¡Es esta!</font>
+
+853
+01:09:11,970 --> 01:09:13,660
+<font color="#ffff00">¡Ah! ¿Es en serio?</font>
+
+854
+01:09:16,540 --> 01:09:17,140
+<font color="#ffff00">Yuki-chan.</font>
+
+855
+01:09:17,180 --> 01:09:19,860
+<font color="#ffff00">Ven aquí, Souhei-kun es muy divertido.</font>
+
+856
+01:09:21,460 --> 01:09:22,720
+<font color="#ffff00">Tengo que devolver este libro.</font>
+
+857
+01:09:24,620 --> 01:09:26,220
+<font color="#ffff00">¿Qué le ocurre?</font>
+
+858
+01:09:26,740 --> 01:09:28,880
+<font color="#ffff00">No siempre es así.</font>
+
+859
+01:09:29,940 --> 01:09:31,520
+<font color="#ffff00">Oye, Yuki, sabes...</font>
+
+860
+01:09:32,880 --> 01:09:34,560
+<font color="#ffff00">Yuki, sabes...</font>
+
+861
+01:09:35,880 --> 01:09:36,720
+<font color="#ffff00">¡Oye, Yuki!</font>
+
+862
+01:09:37,380 --> 01:09:37,900
+<font color="#ffff00">¡Yuki!</font>
+
+863
+01:09:38,620 --> 01:09:39,480
+<font color="#ffff00">¡Oye, Yuki!</font>
+
+864
+01:09:42,000 --> 01:09:43,260
+<font color="#ffff00">¡Sólo dilo!</font>
+
+865
+01:09:46,080 --> 01:09:46,860
+<font color="#ffff00">¿Qué?</font>
+
+866
+01:09:47,220 --> 01:09:49,280
+<font color="#ffff00">¿Te hice algo?</font>
+
+867
+01:09:49,820 --> 01:09:50,760
+<font color="#ffff00">No me hiciste nada.</font>
+
+868
+01:09:51,320 --> 01:09:53,420
+<font color="#ffff00">¿No te agrado porque soy un
+estudiante de intercambio?</font>
+
+869
+01:09:53,450 --> 01:09:54,320
+<font color="#ffff00">¿Es eso?</font>
+
+870
+01:09:54,360 --> 01:09:55,700
+<font color="#ffff00">Ya te dije que no es eso.</font>
+
+871
+01:09:55,740 --> 01:09:57,100
+<font color="#ffff00">Entonces, ¿por qué me evitas?</font>
+
+872
+01:09:57,130 --> 01:09:58,340
+<font color="#ffff00">¡No te estoy evitando!</font>
+
+873
+01:09:58,760 --> 01:10:02,620
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+874
+01:10:02,650 --> 01:10:02,900
+<font color="#ffff00">"Tres... "</font>
+
+875
+01:10:02,930 --> 01:10:03,240
+<font color="#ffff00">¡Oye!</font>
+
+876
+01:10:05,520 --> 01:10:06,420
+<font color="#ffff00">¡Espera!</font>
+
+877
+01:10:06,460 --> 01:10:12,480
+<font color="#ffff00">"Tres regalos, tres pulpos".</font>
+
+878
+01:10:24,820 --> 01:10:25,840
+<font color="#ffff00">¡No te me acerques!</font>
+
+879
+01:10:26,620 --> 01:10:27,360
+<font color="#ffff00">¡Oye!</font>
+
+880
+01:10:27,400 --> 01:10:28,580
+<font color="#ffff00">¡No te me acerques!</font>
+
+881
+01:10:29,460 --> 01:10:30,720
+<font color="#ffff00">¿Qué estás haciendo?</font>
+
+882
+01:10:30,750 --> 01:10:31,820
+<font color="#ffff00">¡No me toques!</font>
+
+883
+01:10:32,300 --> 01:10:33,240
+<font color="#ffff00">¡Yuki!</font>
+
+884
+01:10:33,560 --> 01:10:34,200
+<font color="#ffff00">¡Yuki!</font>
+
+885
+01:10:48,740 --> 01:10:51,060
+<font color="#ffff00">Hana-chan, teléfono.</font>
+
+886
+01:10:51,090 --> 01:10:52,220
+<font color="#ffff00">¡Sí!</font>
+
+887
+01:10:54,120 --> 01:10:54,960
+<font color="#ffff00">¿Hola?</font>
+
+888
+01:11:08,240 --> 01:11:10,080
+<font color="#ffff00">Perdón por llamarla a mitad de su trabajo.</font>
+
+889
+01:11:12,840 --> 01:11:15,260
+<font color="#ffff00">¿Sabes la cantidad de sangre que
+perdió de su cabeza?</font>
+
+890
+01:11:15,290 --> 01:11:16,360
+<font color="#ffff00">Sólo fue mi oreja.</font>
+
+891
+01:11:17,140 --> 01:11:17,700
+<font color="#ffff00">Yuki.</font>
+
+892
+01:11:18,500 --> 01:11:20,820
+<font color="#ffff00">No ha dicho ni una sola palabra.</font>
+
+893
+01:11:24,880 --> 01:11:26,200
+<font color="#ffff00">¿De verdad lo lastimaste?</font>
+
+894
+01:11:29,700 --> 01:11:30,640
+<font color="#ffff00">¿Le pediste perdón?</font>
+
+895
+01:11:35,200 --> 01:11:35,980
+<font color="#ffff00">Discúlpate.</font>
+
+896
+01:11:37,640 --> 01:11:38,540
+<font color="#ffff00">Discúlpate ahora mismo.</font>
+
+897
+01:11:51,480 --> 01:11:52,400
+<font color="#ffff00">Lo siento mucho.</font>
+
+898
+01:11:54,760 --> 01:11:56,140
+<font color="#ffff00">Lamento mucho lo ocurrido.</font>
+
+899
+01:11:57,260 --> 01:11:59,680
+<font color="#ffff00">Además, la madre de Souhei-kun...</font>
+
+900
+01:11:59,720 --> 01:12:02,500
+<font color="#ffff00">pagó los gastos médicos con el
+seguro de la escuela, así que...</font>
+
+901
+01:12:02,530 --> 01:12:05,600
+<font color="#ffff00">¿Qué habría pasado si mi
+hijo se desangraba?</font>
+
+902
+01:12:07,420 --> 01:12:10,960
+<font color="#ffff00">¿Qué pasará si se queda sordo?</font>
+
+903
+01:12:11,000 --> 01:12:13,820
+<font color="#ffff00">¡Lo que hacen los hijos es responsabilidad
+de los padres!</font>
+
+904
+01:12:13,850 --> 01:12:16,510
+<font color="#ffff00">¿Vendería su casa o pediría un
+préstamo para resolverlo?</font>
+
+905
+01:12:16,550 --> 01:12:19,180
+<font color="#ffff00">Bueno, en cualquier caso, no
+pasó nada de eso, así que...</font>
+
+906
+01:12:19,210 --> 01:12:20,840
+<font color="#ffff00">¿Y qué le hace pensar que ese es el caso?</font>
+
+907
+01:12:20,870 --> 01:12:22,400
+<font color="#ffff00">Si no me escuchas, tendré que...</font>
+
+908
+01:12:22,430 --> 01:12:22,940
+<font color="#ffff00">Un lobo.</font>
+
+909
+01:12:25,580 --> 01:12:26,780
+<font color="#ffff00">Un lobo lo hizo.</font>
+
+910
+01:12:29,660 --> 01:12:31,700
+<font color="#ffff00">El me que hizo esto fue un lobo.</font>
+
+911
+01:12:31,730 --> 01:12:33,740
+<font color="#ffff00">Souhei, ¿qué estás diciendo?</font>
+
+912
+01:12:34,740 --> 01:12:35,280
+<font color="#ffff00">Souhei...</font>
+
+913
+01:12:36,520 --> 01:12:36,880
+<font color="#ffff00">¿Souhei?</font>
+
+914
+01:12:38,200 --> 01:12:39,780
+<font color="#ffff00">No atraparon al culpable.</font>
+
+915
+01:12:39,820 --> 01:12:42,520
+<font color="#ffff00">No, ella ha estado actuando
+diferente últimamente.</font>
+
+916
+01:12:42,550 --> 01:12:44,980
+<font color="#ffff00">No, Yuki-chan nunca haría eso.</font>
+
+917
+01:12:45,010 --> 01:12:46,440
+<font color="#ffff00">Es obvio que fue ella.</font>
+
+918
+01:12:47,680 --> 01:12:50,020
+<font color="#ffff00">Así que el maestro...</font>
+
+919
+01:12:58,560 --> 01:13:00,560
+<font color="#ffff00">¿Qué pasó con Souhei-kun?</font>
+
+920
+01:13:00,590 --> 01:13:01,880
+<font color="#ffff00">Se fue temprano.</font>
+
+921
+01:13:01,910 --> 01:13:03,180
+<font color="#ffff00">¿Por qué?</font>
+
+922
+01:13:03,220 --> 01:13:04,810
+<font color="#ffff00">Porque se lastimó.</font>
+
+923
+01:13:04,840 --> 01:13:06,240
+<font color="#ffff00">¿Cómo se lastimó?</font>
+
+924
+01:13:06,270 --> 01:13:07,600
+<font color="#ffff00">Bueno, verán...</font>
+
+925
+01:13:07,640 --> 01:13:09,020
+<font color="#ffff00">¿Quién lo lastimó?</font>
+
+926
+01:13:09,500 --> 01:13:10,460
+<font color="#ffff00">Bueno...</font>
+
+927
+01:13:11,220 --> 01:13:11,890
+<font color="#ffff00">¡Yuki-chan!</font>
+
+928
+01:13:11,920 --> 01:13:12,600
+<font color="#ffff00">Yuki-chan.</font>
+
+929
+01:13:12,630 --> 01:13:13,240
+<font color="#ffff00">Lo sabía.</font>
+
+930
+01:13:13,280 --> 01:13:14,790
+<font color="#ffff00">¿De verdad fue ella?</font>
+
+931
+01:13:14,820 --> 01:13:15,560
+<font color="#ffff00">Soy un detective.</font>
+
+932
+01:13:15,590 --> 01:13:16,260
+<font color="#ffff00">¡Deja de hacer eso!</font>
+
+933
+01:13:16,300 --> 01:13:18,160
+<font color="#ffff00">¡Silencio! ¡Todos guarden silencio!</font>
+
+934
+01:13:22,560 --> 01:13:23,860
+<font color="#ffff00">No funcionó...</font>
+
+935
+01:13:25,420 --> 01:13:28,160
+<font color="#ffff00">el amuleto de la suerte... aunque
+lo dije muchas veces.</font>
+
+936
+01:13:30,980 --> 01:13:34,320
+<font color="#ffff00">Deberían expulsarme.</font>
+
+937
+01:13:35,640 --> 01:13:38,700
+<font color="#ffff00">¿Podremos seguir viviendo en nuestra casa?</font>
+
+938
+01:13:41,800 --> 01:13:42,760
+<font color="#ffff00">Lo siento...</font>
+
+939
+01:13:45,460 --> 01:13:48,600
+<font color="#ffff00">¡Lo siento!</font>
+
+940
+01:13:51,600 --> 01:13:52,720
+<font color="#ffff00">Mamá...</font>
+
+941
+01:13:53,360 --> 01:13:55,440
+<font color="#ffff00">¡Lo siento!</font>
+
+942
+01:13:55,480 --> 01:13:56,620
+<font color="#ffff00">Está bien, está bien.</font>
+
+943
+01:14:39,730 --> 01:14:41,040
+<font color="#ffff00">¿Souhei-kun?</font>
+
+944
+01:14:49,760 --> 01:14:51,720
+<font color="#ffff00">Un papel impreso de Souhei-kun.</font>
+
+945
+01:15:11,200 --> 01:15:12,390
+<font color="#ffff00">De Souhei-kun.</font>
+
+946
+01:15:24,460 --> 01:15:25,580
+<font color="#ffff00">¡Souhei-kun!</font>
+
+947
+01:15:27,580 --> 01:15:30,010
+<font color="#ffff00">Hoy se fue a jugar a casa de Shino-chan.</font>
+
+948
+01:15:31,170 --> 01:15:32,300
+<font color="#ffff00">Ya veo...</font>
+
+949
+01:15:34,340 --> 01:15:35,340
+<font color="#ffff00">Espera un poco.</font>
+
+950
+01:15:46,090 --> 01:15:47,470
+<font color="#ffff00">Debes vivir muy lejos...</font>
+
+951
+01:15:48,410 --> 01:15:50,260
+<font color="#ffff00">Gracias por venir todos los días.</font>
+
+952
+01:15:52,460 --> 01:15:54,550
+<font color="#ffff00">No me gusta que Yuki haya
+dejado de ir a la escuela.</font>
+
+953
+01:15:57,600 --> 01:15:59,860
+<font color="#ffff00">Sabes, esa vez...</font>
+
+954
+01:15:59,900 --> 01:16:02,190
+<font color="#ffff00">dijiste que un lobo lo había hecho.</font>
+
+955
+01:16:02,670 --> 01:16:04,700
+<font color="#ffff00">¿Qué quisiste decir?</font>
+
+956
+01:16:04,740 --> 01:16:06,740
+<font color="#ffff00">Eso fue... En realidad...</font>
+
+957
+01:16:08,360 --> 01:16:10,290
+<font color="#ffff00">Puede que no me crea, pero...</font>
+
+958
+01:16:11,170 --> 01:16:13,670
+<font color="#ffff00">esa vez, por un momento...
+creí ver un lobo.</font>
+
+959
+01:16:13,710 --> 01:16:16,240
+<font color="#ffff00">En cuanto me di cuenta me atacó.</font>
+
+960
+01:16:16,280 --> 01:16:18,770
+<font color="#ffff00">Por eso dije que un lobo lo hizo.</font>
+
+961
+01:16:19,650 --> 01:16:21,450
+<font color="#ffff00">Eso significa que no fue culpa de Yuki.</font>
+
+962
+01:16:22,230 --> 01:16:26,020
+<font color="#ffff00">Todo el mundo dice que
+son tonterías, pero...</font>
+
+963
+01:16:26,590 --> 01:16:27,730
+<font color="#ffff00">Ya veo...</font>
+
+964
+01:16:29,450 --> 01:16:31,110
+<font color="#ffff00">¿Puedo hacerte otra pregunta?</font>
+
+965
+01:16:32,380 --> 01:16:33,480
+<font color="#ffff00">¿Odias a los lobos?</font>
+
+966
+01:16:37,930 --> 01:16:39,250
+<font color="#ffff00">En realidad, no.</font>
+
+967
+01:16:41,540 --> 01:16:42,680
+<font color="#ffff00">Yo tampoco.</font>
+
+968
+01:17:03,210 --> 01:17:04,130
+<font color="#ffff00">Sabes...</font>
+
+969
+01:17:05,210 --> 01:17:05,990
+<font color="#ffff00">¿Quieres verla?</font>
+
+970
+01:17:12,350 --> 01:17:13,110
+<font color="#ffff00">¿No te parece genial?</font>
+
+971
+01:17:13,790 --> 01:17:14,470
+<font color="#ffff00">¿Quieres tocarla?</font>
+
+972
+01:17:22,190 --> 01:17:23,080
+<font color="#ffff00">¿No te duele?</font>
+
+973
+01:17:23,120 --> 01:17:23,980
+<font color="#ffff00">Sólo un poco.</font>
+
+974
+01:17:28,830 --> 01:17:29,470
+<font color="#ffff00">¡Vámonos!</font>
+
+975
+01:17:34,370 --> 01:17:35,270
+<font color="#ffff00">Ya me voy.</font>
+
+976
+01:17:36,390 --> 01:17:37,420
+<font color="#ffff00">¿A dónde vas?</font>
+
+977
+01:17:37,450 --> 01:17:38,790
+<font color="#ffff00">A casa de mi maestro.</font>
+
+978
+01:17:38,830 --> 01:17:40,100
+<font color="#ffff00">¿Quién es tu maestro?</font>
+
+979
+01:17:40,130 --> 01:17:42,950
+<font color="#ffff00">Mi maestro es... mi maestro.</font>
+
+980
+01:17:42,990 --> 01:17:44,000
+<font color="#ffff00">Entiendo.</font>
+
+981
+01:17:44,030 --> 01:17:45,510
+<font color="#ffff00">¿Estarás bien tú solo?</font>
+
+982
+01:17:45,550 --> 01:17:46,030
+<font color="#ffff00">Sí.</font>
+
+983
+01:17:46,970 --> 01:17:47,970
+<font color="#ffff00">Ten cuidado.</font>
+
+984
+01:17:48,010 --> 01:17:48,450
+<font color="#ffff00">Sí.</font>
+
+985
+01:17:49,140 --> 01:17:50,510
+<font color="#ffff00">No llegues tarde.</font>
+
+986
+01:17:50,550 --> 01:17:51,010
+<font color="#ffff00">Sí...</font>
+
+987
+01:17:55,850 --> 01:17:57,160
+<font color="#ffff00">¿Dónde está Yuki-chan?</font>
+
+988
+01:17:57,200 --> 01:17:58,470
+<font color="#ffff00">Hoy regresó a la escuela.</font>
+
+989
+01:17:58,850 --> 01:18:01,010
+<font color="#ffff00">Eso es grandioso, ¿y Ame-chan?</font>
+
+990
+01:18:01,750 --> 01:18:03,770
+<font color="#ffff00">A veces va y a veces no.</font>
+
+991
+01:18:03,810 --> 01:18:05,580
+<font color="#ffff00">Eso está muy bien.</font>
+
+992
+01:18:05,610 --> 01:18:09,790
+<font color="#ffff00">Los chicos que no van a la escuela desde la
+primaria son prometedores.</font>
+
+993
+01:18:09,830 --> 01:18:12,000
+<font color="#ffff00">Edison y yo éramos así.</font>
+
+994
+01:18:12,030 --> 01:18:14,280
+<font color="#ffff00">Otra vez está diciendo tonterías.</font>
+
+995
+01:18:14,310 --> 01:18:16,490
+<font color="#ffff00">Ahora que me acuerdo, ¿alguien
+vive en la montaña?</font>
+
+996
+01:18:16,530 --> 01:18:17,120
+<font color="#ffff00">¿La montaña?</font>
+
+997
+01:18:17,150 --> 01:18:19,480
+<font color="#ffff00">Ame dijo que iba a casa de su maestro...</font>
+
+998
+01:18:19,520 --> 01:18:21,810
+<font color="#ffff00">Pensé que se refería al abuelo, pero...</font>
+
+999
+01:18:21,850 --> 01:18:23,780
+<font color="#ffff00">Déjame recordar...</font>
+
+1000
+01:18:23,810 --> 01:18:27,030
+<font color="#ffff00">¿Hay alguien en la montaña en
+esta laboriosa época de cosecha?</font>
+
+1001
+01:18:28,550 --> 01:18:30,620
+<font color="#ffff00">Mi maestro lo sabe todo.</font>
+
+1002
+01:18:30,660 --> 01:18:32,690
+<font color="#ffff00">Todo sobre la montaña.</font>
+
+1003
+01:18:33,150 --> 01:18:35,750
+<font color="#ffff00">Nunca imaginé que podrías llevarte bien
+con las personas mayores...</font>
+
+1004
+01:18:36,590 --> 01:18:38,200
+<font color="#ffff00">La próxima vez tráelo aquí.</font>
+
+1005
+01:18:38,230 --> 01:18:40,630
+<font color="#ffff00">Quiero darle las gracias
+por cuidar de tí, además...</font>
+
+1006
+01:18:40,670 --> 01:18:42,480
+<font color="#ffff00">mi maestro no se junta con humanos.</font>
+
+1007
+01:18:42,510 --> 01:18:44,770
+<font color="#ffff00">No baja a la aldea como los osos
+y los jabalíes.</font>
+
+1008
+01:18:47,470 --> 01:18:50,510
+<font color="#ffff00">Pero supongo que le gustaría
+conocer a mi mamá.</font>
+
+1009
+01:19:06,810 --> 01:19:10,250
+<font color="#ffff00">Mi maestro está a cargo de todo el
+territorio de la montaña.</font>
+
+1010
+01:19:12,450 --> 01:19:14,970
+<font color="#ffff00">Gracias por cuidar de Ame
+todo este tiempo.</font>
+
+1011
+01:22:05,650 --> 01:22:06,910
+<font color="#ffff00">Ya está listo.</font>
+
+1012
+01:22:07,690 --> 01:22:09,750
+<font color="#ffff00">Yuki, también quiero llevarte a
+la casa de mi maestro.</font>
+
+1013
+01:22:09,790 --> 01:22:12,450
+<font color="#ffff00">Estoy mejorando mi técnica de caza.</font>
+
+1014
+01:22:12,870 --> 01:22:15,310
+<font color="#ffff00">Hay un truco para correr a toda
+velocidad en el bosque.</font>
+
+1015
+01:22:15,350 --> 01:22:18,230
+<font color="#ffff00">También hay una manera de leer el terreno.</font>
+
+1016
+01:22:18,270 --> 01:22:19,550
+<font color="#ffff00">He estado estudiando mucho.</font>
+
+1017
+01:22:20,370 --> 01:22:22,370
+<font color="#ffff00">Como la manera de encontrar
+arroyos y cómo leer el clima...</font>
+
+1018
+01:22:22,410 --> 01:22:25,710
+<font color="#ffff00">También sobre los territorios
+y cómo respetarlos.</font>
+
+1019
+01:22:25,750 --> 01:22:27,050
+<font color="#ffff00">No hay manera de que yo vaya.</font>
+
+1020
+01:22:27,090 --> 01:22:27,820
+<font color="#ffff00">¿Por qué?</font>
+
+1021
+01:22:27,850 --> 01:22:30,240
+<font color="#ffff00">¿Por qué no vas a la escuela?</font>
+
+1022
+01:22:30,270 --> 01:22:32,280
+<font color="#ffff00">Porque la montaña es más divertida.</font>
+
+1023
+01:22:32,310 --> 01:22:34,190
+<font color="#ffff00">Hay muchas cosas que todavía
+tengo que aprender.</font>
+
+1024
+01:22:34,230 --> 01:22:35,630
+<font color="#ffff00">Es mejor no aprenderlas.</font>
+
+1025
+01:22:35,670 --> 01:22:36,400
+<font color="#ffff00">¿Por qué?</font>
+
+1026
+01:22:36,430 --> 01:22:38,150
+<font color="#ffff00">¡Sólo ven a la escuela!</font>
+
+1027
+01:22:40,370 --> 01:22:40,970
+<font color="#ffff00">No quiero.</font>
+
+1028
+01:22:41,010 --> 01:22:41,540
+<font color="#ffff00">¿Por qué?</font>
+
+1029
+01:22:41,570 --> 01:22:42,650
+<font color="#ffff00">Porque soy un lobo.</font>
+
+1030
+01:22:42,690 --> 01:22:43,590
+<font color="#ffff00">Eres humano.</font>
+
+1031
+01:22:43,630 --> 01:22:44,490
+<font color="#ffff00">Somos lobos.</font>
+
+1032
+01:22:49,450 --> 01:22:51,990
+<font color="#ffff00">He decidido que no me convertiré
+en lobo de nuevo.</font>
+
+1033
+01:22:52,030 --> 01:22:52,590
+<font color="#ffff00">¿Por qué?</font>
+
+1034
+01:22:53,910 --> 01:22:54,930
+<font color="#ffff00">Oye, ¿por qué?</font>
+
+1035
+01:22:54,970 --> 01:22:55,920
+<font color="#ffff00">¡Porque soy humana!</font>
+
+1036
+01:22:55,950 --> 01:22:57,880
+<font color="#ffff00">¿Escuchaste? ¡Soy humana!</font>
+
+1037
+01:22:57,920 --> 01:22:58,920
+<font color="#ffff00">¿Por qué dices eso?</font>
+
+1038
+01:22:58,950 --> 01:23:00,830
+<font color="#ffff00">¡Deja de decir "por qué, por qué"!</font>
+
+1039
+01:23:00,870 --> 01:23:02,240
+<font color="#ffff00">Yuki, eres un lobo.</font>
+
+1040
+01:23:02,270 --> 01:23:03,430
+<font color="#ffff00">Aunque eres un lobo, tú...</font>
+
+1041
+01:23:03,470 --> 01:23:04,260
+<font color="#ffff00">¡Cállate!</font>
+
+1042
+01:23:04,290 --> 01:23:05,730
+<font color="#ffff00">¡No sabes nada!</font>
+
+1043
+01:23:05,770 --> 01:23:06,530
+<font color="#ffff00">¿¡Qué!?</font>
+
+1044
+01:23:07,450 --> 01:23:09,630
+<font color="#ffff00">¡No te perdonaré si no vienes
+mañana a la escuela!</font>
+
+1045
+01:23:09,670 --> 01:23:10,690
+<font color="#ffff00">¡No quiero ir!</font>
+
+1046
+01:23:10,730 --> 01:23:11,590
+<font color="#ffff00">¡No te perdonaré!</font>
+
+1047
+01:23:11,620 --> 01:23:12,450
+<font color="#ffff00">¡Que no quiero!</font>
+
+1048
+01:23:19,410 --> 01:23:20,350
+<font color="#ffff00">¿Quieres pelear?</font>
+
+1049
+01:23:22,170 --> 01:23:23,120
+<font color="#ffff00">¿Qué?</font>
+
+1050
+01:23:23,150 --> 01:23:24,230
+<font color="#ffff00">¿Qué es ese ruido?</font>
+
+1051
+01:23:26,010 --> 01:23:27,210
+<font color="#ffff00">¡Yuki! ¡Ame!</font>
+
+1052
+01:23:33,970 --> 01:23:35,910
+<font color="#ffff00">¡Ya basta, los dos!</font>
+
+1053
+01:23:50,710 --> 01:23:52,910
+<font color="#ffff00">¡Deténganse! ¡Yuki, Ame!</font>
+
+1054
+01:24:11,650 --> 01:24:13,210
+<font color="#ffff00">¡Yuki! ¡Ame!</font>
+
+1055
+01:24:21,810 --> 01:24:22,810
+<font color="#ffff00">¿Ame?</font>
+
+1056
+01:24:50,850 --> 01:24:54,130
+<font color="#ffff00">Yuki y Ame empezaron a caminar
+por distintos senderos.</font>
+
+1057
+01:24:56,530 --> 01:24:58,490
+<font color="#ffff00">En vez de estar ilusionada,
+como debería...</font>
+
+1058
+01:24:59,630 --> 01:25:01,550
+<font color="#ffff00">¿por qué me siento tan incómoda?</font>
+
+1059
+01:25:04,870 --> 01:25:06,850
+<font color="#ffff00">Dime, ¿por qué?</font>
+
+1060
+01:25:16,050 --> 01:25:18,520
+<font color="#ffff00">Mi último verano en la escuela primaria...</font>
+
+1061
+01:25:18,550 --> 01:25:21,050
+<font color="#ffff00">tuvo fuertes lluvias que seguramente
+rompieron algún récord...</font>
+
+1062
+01:25:21,990 --> 01:25:25,550
+<font color="#ffff00">Ame comenzó a ir a la montaña
+con mayor frecuencia.</font>
+
+1063
+01:25:26,670 --> 01:25:27,880
+<font color="#ffff00">Las fuertes lluvias...</font>
+
+1064
+01:25:27,910 --> 01:25:31,750
+<font color="#ffff00">afectaron a su maestro, a la flora
+y a la fauna de montaña.</font>
+
+1065
+01:25:31,790 --> 01:25:33,750
+<font color="#ffff00">Parecía estar muy preocupado por eso.</font>
+
+1066
+01:26:01,150 --> 01:26:01,870
+<font color="#ffff00">¡Ame!</font>
+
+1067
+01:26:04,530 --> 01:26:06,130
+<font color="#ffff00">¿Dónde has estado todo este tiempo?</font>
+
+1068
+01:26:07,030 --> 01:26:08,100
+<font color="#ffff00">Estás frío...</font>
+
+1069
+01:26:08,130 --> 01:26:10,070
+<font color="#ffff00">Espera, voy a calentar el baño para tí.</font>
+
+1070
+01:26:10,450 --> 01:26:13,710
+<font color="#ffff00">Mi maestro... se lastimó la
+pata y no podrá caminar.</font>
+
+1071
+01:26:13,750 --> 01:26:16,030
+<font color="#ffff00">Probablemente... muera dentro de poco.</font>
+
+1072
+01:26:19,750 --> 01:26:22,330
+<font color="#ffff00">Alguien tiene que tomar el
+lugar de mi maestro.</font>
+
+1073
+01:26:22,370 --> 01:26:24,330
+<font color="#ffff00">Y hacer sus deberes.</font>
+
+1074
+01:26:28,350 --> 01:26:28,890
+<font color="#ffff00">¡Ame!</font>
+
+1075
+01:26:30,330 --> 01:26:31,840
+<font color="#ffff00">¡No vuelvas a ir a la montaña!</font>
+
+1076
+01:26:31,870 --> 01:26:34,490
+<font color="#ffff00">¿Entiendes? ¡Solamente tienes diez años!</font>
+
+1077
+01:26:34,530 --> 01:26:35,480
+<font color="#ffff00">¡Aún eres un niño!</font>
+
+1078
+01:26:35,510 --> 01:26:39,010
+<font color="#ffff00">Aunque un lobo de diez años es
+un adulto, tú todavía...</font>
+
+1079
+01:26:51,970 --> 01:26:52,850
+<font color="#ffff00">Por favor...</font>
+
+1080
+01:26:54,050 --> 01:26:55,730
+<font color="#ffff00">No vuelvas a ir a la montaña.</font>
+
+1081
+01:26:57,070 --> 01:26:59,750
+<font color="#ffff00">Es el deseo... de tu mamá.</font>
+
+1082
+01:27:03,670 --> 01:27:05,230
+<font color="#ffff00">¡Voy ahora, voy ahora!</font>
+
+1083
+01:27:07,950 --> 01:27:09,270
+<font color="#ffff00">¡Oye! ¡Lanza!</font>
+
+1084
+01:27:11,070 --> 01:27:12,510
+<font color="#ffff00">¡Shindo, lánzala!</font>
+
+1085
+01:27:13,030 --> 01:27:13,730
+<font color="#ffff00">¡Pásamela!</font>
+
+1086
+01:27:14,210 --> 01:27:15,290
+<font color="#ffff00">Por cierto, ¿lo sabías?</font>
+
+1087
+01:27:15,330 --> 01:27:15,920
+<font color="#ffff00">¿Qué?</font>
+
+1088
+01:27:15,950 --> 01:27:18,530
+<font color="#ffff00">Escuché a mis padres hablando sobre eso...</font>
+
+1089
+01:27:18,570 --> 01:27:19,600
+<font color="#ffff00">¿Sí?</font>
+
+1090
+01:27:19,630 --> 01:27:21,090
+<font color="#ffff00">La mamá de Souhei-kun...</font>
+
+1091
+01:27:21,130 --> 01:27:22,610
+<font color="#ffff00">Se va a casar.</font>
+
+1092
+01:27:23,330 --> 01:27:24,070
+<font color="#ffff00">¿¡De verdad!?</font>
+
+1093
+01:27:24,210 --> 01:27:25,340
+<font color="#ffff00">¿Por qué?</font>
+
+1094
+01:27:25,370 --> 01:27:26,600
+<font color="#ffff00">Porque es muy hermosa.</font>
+
+1095
+01:27:26,630 --> 01:27:29,030
+<font color="#ffff00">Entonces, Souhei-kun tendrá
+un nuevo padre.</font>
+
+1096
+01:27:29,070 --> 01:27:29,700
+<font color="#ffff00">Eso es bueno.</font>
+
+1097
+01:27:29,730 --> 01:27:33,390
+<font color="#ffff00">Pero sabes, dijeron que Souhei-kun no
+sabe nada al respecto.</font>
+
+1098
+01:27:33,430 --> 01:27:36,270
+<font color="#ffff00">¿Eh? ¿De verdad? ¿No lo sabe?</font>
+
+1099
+01:27:36,310 --> 01:27:36,990
+<font color="#ffff00">¿En serio?</font>
+
+1100
+01:27:37,030 --> 01:27:37,740
+<font color="#ffff00">Sí.</font>
+
+1101
+01:27:37,770 --> 01:27:39,550
+<font color="#ffff00">Es nuestro secreto.</font>
+
+1102
+01:27:41,010 --> 01:27:44,750
+<font color="#ffff00">¡Muy bien, muy bien! ¡Lo hice!</font>
+
+1103
+01:27:44,790 --> 01:27:46,150
+<font color="#ffff00">¿Cuál es el marcador?</font>
+
+1104
+01:27:46,190 --> 01:27:46,710
+<font color="#ffff00">¡No puede ser!</font>
+
+1105
+01:27:47,170 --> 01:27:48,210
+<font color="#ffff00">Aquí, pásala.</font>
+
+1106
+01:28:39,350 --> 01:28:40,460
+<font color="#ffff00">Buenos días.</font>
+
+1107
+01:28:40,490 --> 01:28:42,780
+<font color="#ffff00">El día de hoy tendremos un buen
+tiempo durante la mañana,</font>
+
+1108
+01:28:42,810 --> 01:28:46,330
+<font color="#ffff00">pero de la tarde a la noche,
+se pronostica una fuerte lluvia.</font>
+
+1109
+01:28:46,370 --> 01:28:48,050
+<font color="#ffff00">Hoy está muy húmedo.</font>
+
+1110
+01:28:51,570 --> 01:28:52,170
+<font color="#ffff00">Yuki.</font>
+
+1111
+01:28:53,070 --> 01:28:54,370
+<font color="#ffff00">Quédate en casa hoy.</font>
+
+1112
+01:28:56,090 --> 01:28:57,270
+<font color="#ffff00">Quédate con mamá.</font>
+
+1113
+01:28:57,970 --> 01:28:58,690
+<font color="#ffff00">¿Por qué?</font>
+
+1114
+01:28:59,310 --> 01:29:01,050
+<font color="#ffff00">Vas a perder el autobús.</font>
+
+1115
+01:29:01,090 --> 01:29:02,150
+<font color="#ffff00">¡Sí!</font>
+
+1116
+01:29:02,850 --> 01:29:04,550
+<font color="#ffff00">Tú también deberías venir.</font>
+
+1117
+01:29:04,590 --> 01:29:05,800
+<font color="#ffff00">¡Ya me voy!</font>
+
+1118
+01:29:05,830 --> 01:29:06,980
+<font color="#ffff00">Que te vaya bien.</font>
+
+1119
+01:29:07,010 --> 01:29:09,790
+<font color="#ffff00">Lloverá después de tener un buen día.</font>
+
+1120
+01:29:09,830 --> 01:29:12,570
+<font color="#ffff00">Tal vez caigan rayos en algunos lugares...</font>
+
+1121
+01:29:13,110 --> 01:29:15,410
+<font color="#ffff00">En el suroeste, habrá sol
+seguido por lluvia.</font>
+
+1122
+01:29:16,170 --> 01:29:16,970
+<font color="#ffff00">Ame.</font>
+
+1123
+01:29:19,410 --> 01:29:20,190
+<font color="#ffff00">¡Ame!</font>
+
+1124
+01:29:25,090 --> 01:29:26,250
+<font color="#ffff00">Entra.</font>
+
+1125
+01:29:30,750 --> 01:29:35,370
+<font color="#ffff00">Preguntaré la distancia que vuela una golondrina,
+durante tres horas sin parar.</font>
+
+1126
+01:29:35,410 --> 01:29:39,050
+<font color="#ffff00">Primero, ¿entienden lo que
+significa moverse a 70 km/h?</font>
+
+1127
+01:29:39,090 --> 01:29:40,680
+<font color="#ffff00">70 km/h...</font>
+
+1128
+01:29:40,710 --> 01:29:43,890
+<font color="#ffff00">Esa distancia puede recorrer
+después de volar una hora completa.</font>
+
+1129
+01:29:43,930 --> 01:29:47,450
+<font color="#ffff00">Si voló durante una hora, habrá
+recorrido 70 km...</font>
+
+1130
+01:29:48,870 --> 01:29:51,340
+<font color="#ffff00">El frente que se había estancado
+en el mar de Japón, se dirige al sur.</font>
+
+1131
+01:29:51,370 --> 01:29:55,050
+<font color="#ffff00">Las condiciones de la zona de prefectura
+se han vuelto inestables.</font>
+
+1132
+01:29:55,090 --> 01:30:00,440
+<font color="#ffff00">Después, se esperan lluvias,
+truenos y tempestades.</font>
+
+1133
+01:30:00,470 --> 01:30:06,350
+<font color="#ffff00">Las lluvias se estiman en 70 mm
+por hora en las llanuras.</font>
+
+1134
+01:30:06,390 --> 01:30:09,520
+<font color="#ffff00">En áreas montañosas,
+superan los 100 mm por hora.</font>
+
+1135
+01:30:12,350 --> 01:30:13,010
+<font color="#ffff00">Gracias.</font>
+
+1136
+01:30:46,690 --> 01:30:49,450
+<font color="#ffff00">Está bien, ¡siéntense, siéntense!</font>
+
+1137
+01:30:50,630 --> 01:30:53,160
+<font color="#ffff00">Al parecer, se acerca una tormenta.</font>
+
+1138
+01:30:53,190 --> 01:30:55,450
+<font color="#ffff00">Así que cancelaremos las clases de la tarde.</font>
+
+1139
+01:30:55,490 --> 01:30:57,410
+<font color="#ffff00">¡Qué bien!</font>
+
+1140
+01:30:58,070 --> 01:31:01,430
+<font color="#ffff00">Ahora todos llamen a sus padres
+para que vengan a recogerlos.</font>
+
+1141
+01:31:01,470 --> 01:31:02,870
+<font color="#ffff00">Póngase en contacto con ellos.</font>
+
+1142
+01:31:03,510 --> 01:31:06,650
+<font color="#ffff00">Hasta que vengan, todos deben
+esperar en el gimnasio.</font>
+
+1143
+01:31:27,570 --> 01:31:28,890
+<font color="#ffff00">¿Un corte de luz?</font>
+
+1144
+01:31:54,310 --> 01:31:55,080
+<font color="#ffff00">Tengo que ir.</font>
+
+1145
+01:32:03,990 --> 01:32:06,380
+<font color="#ffff00">Entiendo, voy para allá.</font>
+
+1146
+01:32:08,150 --> 01:32:11,190
+<font color="#ffff00">Ame, vamos a recoger a Yuki.</font>
+
+1147
+01:32:12,050 --> 01:32:12,810
+<font color="#ffff00">¿Ame?</font>
+
+1148
+01:32:17,570 --> 01:32:19,750
+<font color="#ffff00">¿Ame? ¿Dónde estás?</font>
+
+1149
+01:32:23,630 --> 01:32:24,510
+<font color="#ffff00">¡Ame!</font>
+
+1150
+01:32:28,330 --> 01:32:29,310
+<font color="#ffff00">¡Ame!</font>
+
+1151
+01:32:33,430 --> 01:32:34,210
+<font color="#ffff00">¡Ame!</font>
+
+1152
+01:32:35,970 --> 01:32:36,890
+<font color="#ffff00">¡Ame!</font>
+
+1153
+01:32:42,210 --> 01:32:43,490
+<font color="#ffff00">¿Dónde estás, Ame?</font>
+
+1154
+01:32:44,830 --> 01:32:45,790
+<font color="#ffff00">¡Ame!</font>
+
+1155
+01:33:10,470 --> 01:33:12,050
+<font color="#ffff00">Takahiro...</font>
+
+1156
+01:33:12,870 --> 01:33:13,810
+<font color="#ffff00">¡Mamá!</font>
+
+1157
+01:33:17,210 --> 01:33:18,530
+<font color="#ffff00">¡Keiko!</font>
+
+1158
+01:33:19,270 --> 01:33:20,270
+<font color="#ffff00">¡Papá!</font>
+
+1159
+01:33:20,890 --> 01:33:23,890
+<font color="#ffff00">Los Alpes tienen 10,000...</font>
+
+1160
+01:33:30,410 --> 01:33:32,470
+<font color="#ffff00">Papá está tardando mucho...</font>
+
+1161
+01:33:33,070 --> 01:33:34,490
+<font color="#ffff00">No te preocupes.</font>
+
+1162
+01:33:34,530 --> 01:33:35,630
+<font color="#ffff00">Pero...</font>
+
+1163
+01:33:36,190 --> 01:33:38,410
+<font color="#ffff00">Si tenemos que pasar la noche
+aquí en la escuela...</font>
+
+1164
+01:33:38,450 --> 01:33:40,090
+<font color="#ffff00">jugaremos a las cartas toda la noche.</font>
+
+1165
+01:33:40,130 --> 01:33:41,090
+<font color="#ffff00">¿Cartas?</font>
+
+1166
+01:33:41,130 --> 01:33:42,030
+<font color="#ffff00">¡Quiero jugar!</font>
+
+1167
+01:33:42,350 --> 01:33:44,030
+<font color="#ffff00">¡Ah! ¡Eso suena divertido!</font>
+
+1168
+01:33:44,070 --> 01:33:45,140
+<font color="#ffff00">¡Será como acampar!</font>
+
+1169
+01:33:45,170 --> 01:33:46,850
+<font color="#ffff00">Voy al salón a buscar las cartas.</font>
+
+1170
+01:33:46,890 --> 01:33:47,490
+<font color="#ffff00">Sí.</font>
+
+1171
+01:33:48,470 --> 01:33:50,240
+<font color="#ffff00">¿Sabes cómo jugar a las cartas?</font>
+
+1172
+01:33:50,270 --> 01:33:50,330
+<font color="#ffff00">Solo sé jugar al baba nuki.</font>
+
+1173
+01:33:52,050 --> 01:33:53,060
+<font color="#ffff00">¡Idiota!</font>
+
+1174
+01:33:53,090 --> 01:33:54,550
+<font color="#ffff00">¡Oye! ¡No se peleen!</font>
+
+1175
+01:33:56,730 --> 01:33:57,570
+<font color="#ffff00">¡Shino!</font>
+
+1176
+01:33:58,510 --> 01:33:59,990
+<font color="#ffff00">Ah, papá.</font>
+
+1177
+01:34:00,030 --> 01:34:01,560
+<font color="#ffff00">Te tardaste mucho.</font>
+
+1178
+01:34:01,590 --> 01:34:04,340
+<font color="#ffff00">Lo siento, la tormenta es muy fuerte.</font>
+
+1179
+01:34:04,380 --> 01:34:06,880
+<font color="#ffff00">Yuki-chan, ¿quieres que te llevemos?</font>
+
+1180
+01:34:06,920 --> 01:34:09,390
+<font color="#ffff00">Eso es, ven con nosotros, Yuki-chan.</font>
+
+1181
+01:34:09,430 --> 01:34:11,160
+<font color="#ffff00">Eh, pero...</font>
+
+1182
+01:34:11,190 --> 01:34:12,890
+<font color="#ffff00">Vamos, rápido.</font>
+
+1183
+01:34:13,470 --> 01:34:14,650
+<font color="#ffff00">Muchas gracias.</font>
+
+1184
+01:34:14,690 --> 01:34:17,310
+<font color="#ffff00">Pero creo que mi mamá ya viene en camino.</font>
+
+1185
+01:34:17,340 --> 01:34:19,070
+<font color="#ffff00">No tienes por qué ser tímida.</font>
+
+1186
+01:34:19,110 --> 01:34:20,360
+<font color="#ffff00">Es verdad.</font>
+
+1187
+01:34:20,390 --> 01:34:22,850
+<font color="#ffff00">Sería problemático que me cruzara
+con mi mamá y no la viera.</font>
+
+1188
+01:34:22,880 --> 01:34:24,270
+<font color="#ffff00">En eso tienes razón.</font>
+
+1189
+01:34:25,250 --> 01:34:26,090
+<font color="#ffff00">Bueno, ya nos vamos.</font>
+
+1190
+01:34:26,130 --> 01:34:26,570
+<font color="#ffff00">Adiós.</font>
+
+1191
+01:34:27,390 --> 01:34:27,990
+<font color="#ffff00">Nos vemos.</font>
+
+1192
+01:34:42,570 --> 01:34:43,710
+<font color="#ffff00">¡Ame!</font>
+
+1193
+01:34:45,030 --> 01:34:47,510
+<font color="#ffff00">¿¡Dónde estás, Ame!?</font>
+
+1194
+01:34:48,550 --> 01:34:49,610
+<font color="#ffff00">¡Ame!</font>
+
+1195
+01:34:59,350 --> 01:35:00,630
+<font color="#ffff00">Ame...</font>
+
+1196
+01:35:01,830 --> 01:35:03,110
+<font color="#ffff00">¿Dónde estás?</font>
+
+1197
+01:35:17,870 --> 01:35:19,870
+<font color="#ffff00">Sou-chan... está tardando demasiado.</font>
+
+1198
+01:35:22,810 --> 01:35:24,050
+<font color="#ffff00">Yuki-chan...</font>
+
+1199
+01:35:32,490 --> 01:35:34,850
+<font color="#ffff00">¿Eh? ¿Ya se fue Yuki-chan?</font>
+
+1200
+01:35:35,510 --> 01:35:37,790
+<font color="#ffff00">¡Escúchenme todos!</font>
+
+1201
+01:35:38,130 --> 01:35:40,810
+<font color="#ffff00">Los que se quedaron, serán llevados
+por el chófer de la escuela.</font>
+
+1202
+01:35:40,840 --> 01:35:43,550
+<font color="#ffff00">Tomen sus mochilas y vengan aquí.</font>
+
+1203
+01:36:18,370 --> 01:36:19,090
+<font color="#ffff00">¡Ame!</font>
+
+1204
+01:36:20,530 --> 01:36:21,430
+<font color="#ffff00">¡Ame!</font>
+
+1205
+01:36:23,170 --> 01:36:24,170
+<font color="#ffff00">¡Ame!</font>
+
+1206
+01:36:29,130 --> 01:36:31,530
+<font color="#ffff00">¡Espera! ¡Espera!</font>
+
+1207
+01:36:31,560 --> 01:36:32,670
+<font color="#ffff00">¡Ame!</font>
+
+1208
+01:37:35,670 --> 01:37:36,650
+<font color="#ffff00">Ame...</font>
+
+1209
+01:37:41,070 --> 01:37:42,310
+<font color="#ffff00">¿Dónde estás?</font>
+
+1210
+01:37:58,210 --> 01:37:59,590
+<font color="#ffff00">¿Qué estás haciendo aquí?</font>
+
+1211
+01:37:59,620 --> 01:38:00,430
+<font color="#ffff00">Bueno...</font>
+
+1212
+01:38:02,230 --> 01:38:03,050
+<font color="#ffff00">Es que te tardaste demasiado.</font>
+
+1213
+01:38:03,830 --> 01:38:05,730
+<font color="#ffff00">¿Eh? Ya no están.</font>
+
+1214
+01:38:05,770 --> 01:38:07,570
+<font color="#ffff00">Creo que ya se fueron todos a sus casas.</font>
+
+1215
+01:38:07,610 --> 01:38:09,830
+<font color="#ffff00">Así que yo fui el único al que
+nadie vino a recoger...</font>
+
+1216
+01:38:11,210 --> 01:38:13,510
+<font color="#ffff00">Me pregunto si le pasó algo a mi mamá.</font>
+
+1217
+01:38:16,230 --> 01:38:17,130
+<font color="#ffff00">Hace frío.</font>
+
+1218
+01:38:17,170 --> 01:38:18,430
+<font color="#ffff00">Vamos a dar una vuelta.</font>
+
+1219
+01:38:21,870 --> 01:38:22,350
+<font color="#ffff00">¡Yuki!</font>
+
+1220
+01:38:22,390 --> 01:38:23,490
+<font color="#ffff00">Ah, espérame.</font>
+
+1221
+01:38:26,730 --> 01:38:29,410
+<font color="#ffff00">Si no vienen a recogernos,
+¿qué deberíamos hacer?</font>
+
+1222
+01:38:29,440 --> 01:38:31,090
+<font color="#ffff00">Prefiero vivir aquí en la escuela.</font>
+
+1223
+01:38:31,120 --> 01:38:32,390
+<font color="#ffff00">Eso es imposible.</font>
+
+1224
+01:38:32,430 --> 01:38:34,830
+<font color="#ffff00">Podemos dormir en la enfermería
+cuando llegue la noche, ¿no?</font>
+
+1225
+01:38:34,860 --> 01:38:35,730
+<font color="#ffff00">¿Y qué hay de la comida?</font>
+
+1226
+01:38:35,770 --> 01:38:37,770
+<font color="#ffff00">Podemos comer las sobras del almuerzo.</font>
+
+1227
+01:38:37,800 --> 01:38:39,560
+<font color="#ffff00">¿Y si nadie viene a llevarte a casa?</font>
+
+1228
+01:38:39,590 --> 01:38:41,270
+<font color="#ffff00">¿Piensas vivir aquí para siempre?</font>
+
+1229
+01:38:41,310 --> 01:38:44,050
+<font color="#ffff00">Me gustaría trabajar, repartir
+periódicos o algo así.</font>
+
+1230
+01:38:44,080 --> 01:38:46,970
+<font color="#ffff00">Eres un niño, te descubrirán.</font>
+
+1231
+01:38:47,010 --> 01:38:50,050
+<font color="#ffff00">Mentiré sobre mi edad, diré
+que estoy en la secundaria.</font>
+
+1232
+01:38:50,080 --> 01:38:51,810
+<font color="#ffff00">¿Me veo como un estudiante de secundaria?</font>
+
+1233
+01:38:56,150 --> 01:38:56,770
+<font color="#ffff00">No.</font>
+
+1234
+01:38:57,210 --> 01:38:57,930
+<font color="#ffff00">¿De verdad?</font>
+
+1235
+01:39:02,190 --> 01:39:03,810
+<font color="#ffff00">Quiero convertirme en adulta rápido.</font>
+
+1236
+01:39:08,370 --> 01:39:09,050
+<font color="#ffff00">Yo también.</font>
+
+1237
+01:40:32,350 --> 01:40:33,270
+<font color="#ffff00">Ame...</font>
+
+1238
+01:40:33,970 --> 01:40:35,170
+<font color="#ffff00">¿Dónde estás?</font>
+
+1239
+01:40:35,830 --> 01:40:37,330
+<font color="#ffff00">¿No tienes frío?</font>
+
+1240
+01:40:38,390 --> 01:40:39,800
+<font color="#ffff00">Si no regresas...</font>
+
+1241
+01:40:39,830 --> 01:40:41,210
+<font color="#ffff00">Voy a llorar.</font>
+
+1242
+01:40:43,770 --> 01:40:44,970
+<font color="#ffff00">Yo...</font>
+
+1243
+01:40:46,490 --> 01:40:49,810
+<font color="#ffff00">Debo... protegerte...</font>
+
+1244
+01:40:51,670 --> 01:40:55,370
+<font color="#ffff00">Yo... te protegeré.</font>
+
+1245
+01:41:12,450 --> 01:41:13,630
+<font color="#ffff00">¿Hay alguien aquí?</font>
+
+1246
+01:41:25,950 --> 01:41:26,630
+<font color="#ffff00">Ya se fue.</font>
+
+1247
+01:41:31,150 --> 01:41:32,790
+<font color="#ffff00">Estaba muy nerviosa.</font>
+
+1248
+01:41:32,830 --> 01:41:35,150
+<font color="#ffff00">Oye, ¿por qué nos escondemos?</font>
+
+1249
+01:41:37,350 --> 01:41:37,990
+<font color="#ffff00">¡Oye!</font>
+
+1250
+01:41:48,170 --> 01:41:49,010
+<font color="#ffff00">Se parece al mar.</font>
+
+1251
+01:41:50,090 --> 01:41:51,370
+<font color="#ffff00">Como si lo hubiera absorbido todo.</font>
+
+1252
+01:41:53,370 --> 01:41:56,110
+<font color="#ffff00">Me pregunto si podremos seguir
+viviendo aquí en secreto...</font>
+
+1253
+01:41:57,490 --> 01:41:59,450
+<font color="#ffff00">Si nuestros padres no vienen,
+no podemos evitarlo.</font>
+
+1254
+01:41:59,480 --> 01:42:00,550
+<font color="#ffff00">¿Por qué?</font>
+
+1255
+01:42:00,590 --> 01:42:02,430
+<font color="#ffff00">Estoy segura de que tu mamá va a venir.</font>
+
+1256
+01:42:03,430 --> 01:42:03,930
+<font color="#ffff00">No vendrá.</font>
+
+1257
+01:42:04,570 --> 01:42:06,090
+<font color="#ffff00">¿Por qué no? Después de todo...</font>
+
+1258
+01:42:10,390 --> 01:42:12,450
+<font color="#ffff00">Mi mamá... se va a casar.</font>
+
+1259
+01:42:13,590 --> 01:42:15,170
+<font color="#ffff00">Está esperando un bebé.</font>
+
+1260
+01:42:15,380 --> 01:42:18,280
+<font color="#ffff00">Y cuando nazca... ya no me va a necesitar.</font>
+
+1261
+01:42:21,670 --> 01:42:24,170
+<font color="#ffff00">Pero ella estaba tan preocupada por tí...</font>
+
+1262
+01:42:25,050 --> 01:42:27,090
+<font color="#ffff00">En realidad, estoy bien con eso.</font>
+
+1263
+01:42:27,120 --> 01:42:29,050
+<font color="#ffff00">Me iré de la casa.</font>
+
+1264
+01:42:29,090 --> 01:42:31,330
+<font color="#ffff00">Y me convertiré en boxeador o luchador.</font>
+
+1265
+01:42:31,360 --> 01:42:33,370
+<font color="#ffff00">Y viviré como un lobo solitario.</font>
+
+1266
+01:42:33,810 --> 01:42:35,150
+<font color="#ffff00">¿Y bien? ¿Crees que pueda hacerlo?</font>
+
+1267
+01:42:37,450 --> 01:42:39,390
+<font color="#ffff00">Sou-chan, te vencerán de inmediato.</font>
+
+1268
+01:42:39,420 --> 01:42:40,330
+<font color="#ffff00">Eres muy frágil.</font>
+
+1269
+01:42:41,330 --> 01:42:42,070
+<font color="#ffff00">Voy a entrenar.</font>
+
+1270
+01:42:42,110 --> 01:42:43,910
+<font color="#ffff00">Voy a entrenar y a vivir por mi cuenta.</font>
+
+1271
+01:42:56,410 --> 01:42:57,250
+<font color="#ffff00">Sou-chan...</font>
+
+1272
+01:42:58,870 --> 01:43:00,930
+<font color="#ffff00">Me gustaría ser como tú.</font>
+
+1273
+01:43:00,970 --> 01:43:04,010
+<font color="#ffff00">Ser capaz de sonreír, incluso al
+hablar de mi verdadero yo.</font>
+
+1274
+01:43:19,330 --> 01:43:20,470
+<font color="#ffff00">Sou-chan.</font>
+
+1275
+01:43:21,670 --> 01:43:25,170
+<font color="#ffff00">El lobo que te atacó aquella vez...</font>
+
+1276
+01:43:31,150 --> 01:43:31,850
+<font color="#ffff00">Era yo.</font>
+
+1277
+01:43:36,750 --> 01:43:38,810
+<font color="#ffff00">Siempre pensé que debía decírtelo.</font>
+
+1278
+01:43:42,750 --> 01:43:44,690
+<font color="#ffff00">Eso me ha estado lastimando hasta ahora.</font>
+
+1279
+01:43:49,210 --> 01:43:51,350
+<font color="#ffff00">Lo supe... todo este tiempo.</font>
+
+1280
+01:43:52,830 --> 01:43:55,870
+<font color="#ffff00">No le contaré a nadie tu secreto.</font>
+
+1281
+01:43:57,610 --> 01:43:59,930
+<font color="#ffff00">No se lo diré a nadie, así que...</font>
+
+1282
+01:44:01,570 --> 01:44:02,650
+<font color="#ffff00">No llores más.</font>
+
+1283
+01:44:07,990 --> 01:44:09,950
+<font color="#ffff00">No estoy llorando, son gotas de lluvia.</font>
+
+1284
+01:44:20,770 --> 01:44:21,770
+<font color="#ffff00">Gracias...</font>
+
+1285
+01:44:50,270 --> 01:44:52,730
+<font color="#ffff00">¡Ame! ¿A dónde te has ido?</font>
+
+1286
+01:44:54,830 --> 01:44:55,610
+<font color="#ffff00">¡Ame!</font>
+
+1287
+01:44:59,610 --> 01:45:00,390
+<font color="#ffff00">¡Ame!</font>
+
+1288
+01:45:01,850 --> 01:45:02,730
+<font color="#ffff00">Te he estado buscando.</font>
+
+1289
+01:45:03,590 --> 01:45:06,570
+<font color="#ffff00">Vamos, tenemos que ir por
+Yuki y llevarla a casa.</font>
+
+1290
+01:45:13,870 --> 01:45:14,510
+<font color="#ffff00">Hana.</font>
+
+1291
+01:45:26,850 --> 01:45:28,110
+<font color="#ffff00">Te extrañé.</font>
+
+1292
+01:45:29,870 --> 01:45:31,790
+<font color="#ffff00">Has estado trabajando muy duro
+todo este tiempo.</font>
+
+1293
+01:45:32,770 --> 01:45:33,660
+<font color="#ffff00">Lo siento.</font>
+
+1294
+01:45:33,690 --> 01:45:34,550
+<font color="#ffff00">Está bien.</font>
+
+1295
+01:45:36,030 --> 01:45:37,810
+<font color="#ffff00">Siempre te estuve observando.</font>
+
+1296
+01:45:38,600 --> 01:45:40,610
+<font color="#ffff00">Sí, lo sé.</font>
+
+1297
+01:45:41,530 --> 01:45:43,670
+<font color="#ffff00">Has criado a los niños muy bien.</font>
+
+1298
+01:45:43,700 --> 01:45:45,710
+<font color="#ffff00">No, no lo hice.</font>
+
+1299
+01:45:45,750 --> 01:45:47,270
+<font color="#ffff00">Cometí muchos errores.</font>
+
+1300
+01:45:47,300 --> 01:45:48,610
+<font color="#ffff00">No, de verdad.</font>
+
+1301
+01:45:48,650 --> 01:45:51,210
+<font color="#ffff00">Pero Yuki y Ame crecieron muy bien.</font>
+
+1302
+01:45:51,240 --> 01:45:53,530
+<font color="#ffff00">No, porque...</font>
+
+1303
+01:45:56,450 --> 01:45:57,330
+<font color="#ffff00">Ame está...</font>
+
+1304
+01:45:58,510 --> 01:46:00,730
+<font color="#ffff00">Es verdad, Ame está perdido.</font>
+
+1305
+01:46:04,210 --> 01:46:05,590
+<font color="#ffff00">¡Ame!</font>
+
+1306
+01:46:05,630 --> 01:46:07,550
+<font color="#ffff00">Ame está bien.</font>
+
+1307
+01:46:07,580 --> 01:46:08,310
+<font color="#ffff00">Pero...</font>
+
+1308
+01:46:09,650 --> 01:46:11,990
+<font color="#ffff00">Está bien, ya es un adulto.</font>
+
+1309
+01:46:15,430 --> 01:46:16,710
+<font color="#ffff00">¿Un adulto?</font>
+
+1310
+01:46:17,390 --> 01:46:19,290
+<font color="#ffff00">Descubrió el mundo al que pertenece.</font>
+
+1311
+01:47:02,690 --> 01:47:03,570
+<font color="#ffff00">Ame...</font>
+
+1312
+01:47:07,370 --> 01:47:08,250
+<font color="#ffff00">¡Ame!</font>
+
+1313
+01:47:13,670 --> 01:47:14,770
+<font color="#ffff00">¿Te vas?</font>
+
+1314
+01:47:18,410 --> 01:47:23,730
+<font color="#ffff00">Pero, todavía no he hecho nada por tí.</font>
+
+1315
+01:47:26,110 --> 01:47:27,550
+<font color="#ffff00">Aún no he hecho nada...</font>
+
+1316
+01:47:30,090 --> 01:47:30,970
+<font color="#ffff00">Y aún así...</font>
+
+1317
+01:47:43,290 --> 01:47:44,190
+<font color="#ffff00">¡Espera!</font>
+
+1318
+01:47:47,110 --> 01:47:48,170
+<font color="#ffff00">¡Ame!</font>
+
+1319
+01:47:50,270 --> 01:47:51,430
+<font color="#ffff00">¡Ame!</font>
+
+1320
+01:47:56,230 --> 01:47:57,430
+<font color="#ffff00">¡Ame!</font>
+
+1321
+01:48:14,570 --> 01:48:15,350
+<font color="#ffff00">Ame...</font>
+
+1322
+01:48:17,970 --> 01:48:18,690
+<font color="#ffff00">Ame...</font>
+
+1323
+01:48:49,070 --> 01:48:50,170
+<font color="#ffff00">Cuídate...</font>
+
+1324
+01:48:51,450 --> 01:48:53,210
+<font color="#ffff00">¡Vive tu vida!</font>
+
+1325
+01:49:13,670 --> 01:49:15,670
+<font color="#ffff00">Cuídate.</font>
+
+1326
+01:49:28,210 --> 01:49:32,370
+<font color="#ffff00">Mi madre me dijo que nunca
+olvidará esa mañana.</font>
+
+1327
+01:49:33,930 --> 01:49:37,880
+<font color="#ffff00">Las hojas de haya lavadas,
+las telarañas lavadas,</font>
+
+1328
+01:49:38,490 --> 01:49:39,710
+<font color="#ffff00">y el cielo despejado...</font>
+
+1329
+01:49:41,650 --> 01:49:44,210
+<font color="#ffff00">Todo reflejaba la luz del sol
+intensamente.</font>
+
+1330
+01:49:45,150 --> 01:49:49,690
+<font color="#ffff00">Como si el mundo hubiera vuelto
+a nacer en una sola noche.</font>
+
+1331
+01:49:51,090 --> 01:49:52,950
+<font color="#ffff00">Eso fue lo que pensó mi madre.</font>
+
+1332
+01:50:20,170 --> 01:50:23,590
+<font color="#ffff00">Al año siguiente, para vivir
+en los dormitorios de la secundaria...</font>
+
+1333
+01:50:23,620 --> 01:50:25,350
+<font color="#ffff00">me fui de casa.</font>
+
+1334
+01:50:27,350 --> 01:50:31,350
+<font color="#ffff00">Cuando mi madre, que nos crió
+por 12 años, recuerda eso...</font>
+
+1335
+01:50:32,310 --> 01:50:36,610
+<font color="#ffff00">dice que parece un cuento de
+hadas y empieza a reír.</font>
+
+1336
+01:50:38,390 --> 01:50:39,810
+<font color="#ffff00">Es muy satisfactorio,</font>
+
+1337
+01:50:40,690 --> 01:50:42,610
+<font color="#ffff00">como mirar la cima de una
+montaña muy lejana...</font>
+
+1338
+01:50:43,650 --> 01:50:48,510
+<font color="#ffff00">Ver esa sonrisa en su rostro,
+me hace muy feliz.</font>
+
+1339
+01:50:58,610 --> 01:51:03,450
+<font color="#ffff00">Ella todavía vive tranquilamente
+en la casa de la montaña.</font>
+
